@@ -1,0 +1,1473 @@
+﻿STATION,DATE,TYPE,TEMP,DEW PNT,RH,W.DIR,W.SPEED,PRECIP,GC,FFMC,DMC,DC,ISI,BUI,FWI,DGR
+BLUE RIVER 2,2022-05-01,ACTUAL,16,-1.7,30,85,8,0,,,,,,,,
+BLUE RIVER 2,2022-05-02,ACTUAL,14.4,4.7,52,73,8,0.2,,,,,,,,
+BLUE RIVER 2,2022-05-03,ACTUAL,14.9,3.3,46,229,5,0.2,,,,,,,,
+BLUE RIVER 2,2022-05-04,ACTUAL,8.6,5.2,79,63,8,1.8,,,,,,,,
+BLUE RIVER 2,2022-05-05,ACTUAL,8.9,6.7,86,86,4,8.6,,,,,,,,
+BLUE RIVER 2,2022-05-06,ACTUAL,8.3,5.6,83,135,9,12.4,,,,,,,,
+BLUE RIVER 2,2022-05-07,ACTUAL,10,1.4,55,33,18,3.6,,,,,,,,
+BLUE RIVER 2,2022-05-08,ACTUAL,11.6,-4.3,33,97,8,0,,,,,,,,
+BLUE RIVER 2,2022-05-09,ACTUAL,10.2,-1,46,215,28,0,,,,,,,,
+BLUE RIVER 2,2022-05-10,ACTUAL,10.6,1.4,53,227,21,0.2,,,,,,,,
+BLUE RIVER 2,2022-05-11,ACTUAL,11.4,-2.2,39,52,6,0.6,,,,,,,,
+BLUE RIVER 2,2022-05-12,ACTUAL,13,-3.4,32,228,14,0,,,,,,,,
+BLUE RIVER 2,2022-05-13,ACTUAL,8.3,3,69,83,10,0,,,,,,,,
+BLUE RIVER 2,2022-05-14,ACTUAL,6.9,4.5,85,49,4,5,,,,,,,,
+BLUE RIVER 2,2022-05-15,ACTUAL,13,2.2,48,269,3,0,,85,6,15,2.4,6,2,
+BLUE RIVER 2,2022-05-16,ACTUAL,14.8,8.1,64,61,10,4,,61.7,5,16,0.7,5,0,1
+BLUE RIVER 2,2022-05-17,ACTUAL,7,1.9,70,215,10,2.2,,57.1,4,20,0.6,5,0,1
+BLUE RIVER 2,2022-05-18,ACTUAL,4.1,2.6,90,42,6,11.6,,19.9,2,6,0,2,0,1
+BLUE RIVER 2,2022-05-19,ACTUAL,11.9,2.9,54,15,6,1.6,,46.1,3,10,0.1,3,0,1
+BLUE RIVER 2,2022-05-20,ACTUAL,14.8,-5.1,25,44,10,0,,76.6,6,15,1.4,6,1,1
+BLUE RIVER 2,2022-05-21,ACTUAL,16.7,-7.1,19,108,10,0,,89.2,10,21,6.3,10,7,2
+BLUE RIVER 2,2022-05-22,ACTUAL,18.5,-6.3,18,50,14,0,,92.9,14,27,13.2,14,15,2
+BLUE RIVER 2,2022-05-23,ACTUAL,15.8,-1.4,31,234,22,0,,92,17,32,17.3,17,20,3
+BLUE RIVER 2,2022-05-24,ACTUAL,12.6,6,64,211,22,0,,86.9,18,36,8.3,18,11,2
+BLUE RIVER 2,2022-05-25,ACTUAL,12.9,7.2,68,234,3,3.4,,58,14,38,0.4,15,0,1
+BLUE RIVER 2,2022-05-26,ACTUAL,18,1.4,33,57,11,0.2,,81.7,18,44,2.3,18,3,2
+BLUE RIVER 2,2022-05-27,ACTUAL,12.8,8.9,77,42,5,5.8,,45.1,11,41,0.1,13,0,1
+BLUE RIVER 2,2022-05-28,ACTUAL,11.9,4.7,61,103,7,1.8,,57,11,45,0.5,14,0,1
+BLUE RIVER 2,2022-05-29,ACTUAL,18.5,-1.5,26,61,11,0,,83.3,15,51,2.9,17,4,2
+BLUE RIVER 2,2022-05-30,ACTUAL,20,-1.8,23,67,9,0,,90.8,19,57,7.7,21,12,3
+BLUE RIVER 2,2022-05-31,ACTUAL,18.6,3.9,38,42,7,0,,90.8,22,63,6.8,24,11,3
+BLUE RIVER 2,2022-06-01,ACTUAL,17.5,5.7,46,42,6,0,,89.7,25,69,5.6,26,10,3
+BLUE RIVER 2,2022-06-02,ACTUAL,21.4,1.5,27,203,11,0,,91.6,29,76,9.2,30,16,3
+BLUE RIVER 2,2022-06-03,ACTUAL,15.9,6.4,53,207,17,0,,88.7,32,83,8.4,32,16,3
+BLUE RIVER 2,2022-06-04,ACTUAL,22,4.4,32,84,11,0.8,,89.3,36,90,6.7,36,14,3
+BLUE RIVER 2,2022-06-05,ACTUAL,18.4,5.2,42,107,5,0,,89.4,39,97,5.1,39,12,3
+BLUE RIVER 2,2022-06-06,ACTUAL,14.8,10.5,75,235,3,6.8,,44.7,23,92,0.1,29,0,2
+BLUE RIVER 2,2022-06-07,ACTUAL,20.4,6.6,41,213,15,0.2,,78.1,27,99,2,32,4,2
+BLUE RIVER 2,2022-06-08,ACTUAL,14.7,10.9,78,52,7,6.4,,45.1,16,95,0.1,23,0,2
+BLUE RIVER 2,2022-06-09,ACTUAL,18,6.8,48,299,5,17.8,,46.7,10,69,0.1,14,0,1
+BLUE RIVER 2,2022-06-10,ACTUAL,16.6,11.4,71,42,15,6.2,,48.7,6,67,0.3,10,0,1
+BLUE RIVER 2,2022-06-11,ACTUAL,19,6.4,44,37,9,0,,76.3,9,74,1.3,14,1,1
+BLUE RIVER 2,2022-06-12,ACTUAL,18.3,6.8,47,217,15,8.2,,64.2,7,67,1.1,11,1,1
+BLUE RIVER 2,2022-06-13,ACTUAL,17,7.4,53,200,13,0,,79.7,10,74,2.1,14,3,2
+BLUE RIVER 2,2022-06-14,ACTUAL,15.6,10.6,72,74,6,7.8,,46.5,6,68,0.1,10,0,1
+BLUE RIVER 2,2022-06-15,ACTUAL,23.1,4.9,31,61,12,0,,82.2,10,75,2.6,15,4,2
+BLUE RIVER 2,2022-06-16,ACTUAL,13.6,11.8,89,78,5,8.4,,32.6,6,68,0,9,0,1
+BLUE RIVER 2,2022-06-17,ACTUAL,16.8,9.3,61,242,6,4.4,,46.3,5,69,0.1,8,0,1
+BLUE RIVER 2,2022-06-18,ACTUAL,13.9,12.1,89,116,5,1.8,,44.1,4,75,0.1,7,0,1
+BLUE RIVER 2,2022-06-19,ACTUAL,16.8,9.6,62,190,10,4.8,,52,4,75,0.3,7,0,1
+BLUE RIVER 2,2022-06-20,ACTUAL,22,7.3,39,317,7,0,,79.7,7,82,1.6,12,1,2
+BLUE RIVER 2,2022-06-21,ACTUAL,17.4,12.6,73,36,9,0,,81.7,9,89,2.2,14,3,2
+BLUE RIVER 2,2022-06-22,ACTUAL,16.5,10.9,69,39,6,31.4,,39.7,5,38,0,7,0,1
+BLUE RIVER 2,2022-06-23,ACTUAL,8.2,6.2,87,69,6,6,,25.1,2,35,0,4,0,1
+BLUE RIVER 2,2022-06-24,ACTUAL,18.8,2.1,33,43,17,0.4,,72.1,6,42,1.6,9,1,1
+BLUE RIVER 2,2022-06-25,ACTUAL,22.6,2,26,357,7,0,,88.4,11,50,4.9,14,6,2
+BLUE RIVER 2,2022-06-26,ACTUAL,26.4,-1.5,16,29,9,0,,94.5,17,58,12.7,19,17,2
+BLUE RIVER 2,2022-06-27,ACTUAL,29.3,2.5,18,96,7,0,,95.3,23,66,12.5,25,19,3
+BLUE RIVER 2,2022-06-28,ACTUAL,12.7,12.2,97,84,5,4.6,,39.1,15,66,0,19,0,1
+BLUE RIVER 2,2022-06-29,ACTUAL,14.2,10.5,78,31,4,12,,27.4,8,52,0,12,0,1
+BLUE RIVER 2,2022-06-30,ACTUAL,23.4,10.8,45,222,7,0,,69.5,12,60,0.9,16,1,1
+BLUE RIVER 2,2022-07-01,ACTUAL,25.8,7.3,31,223,19,0,,89.3,16,68,10,20,14,3
+BLUE RIVER 2,2022-07-02,ACTUAL,23.9,7.8,36,212,11,0,,90.4,20,76,8,24,13,3
+BLUE RIVER 2,2022-07-03,ACTUAL,25.7,5.7,28,79,14,0,,92.3,24,85,12.1,28,19,3
+BLUE RIVER 2,2022-07-04,ACTUAL,20.5,13.6,64,197,10,3.2,,70.6,20,89,1,26,1,2
+BLUE RIVER 2,2022-07-05,ACTUAL,15.3,10.9,75,123,2,17.8,,32.1,9,63,0,14,0,1
+BLUE RIVER 2,2022-07-06,ACTUAL,23.4,11.5,47,58,3,0,,68.1,12,71,0.7,17,1,1
+BLUE RIVER 2,2022-07-07,ACTUAL,19,14.5,75,58,6,4.6,,52.1,9,72,0.3,13,0,1
+BLUE RIVER 2,2022-07-08,ACTUAL,15,12.7,86,21,9,13,,28.4,4,57,0,7,0,1
+BLUE RIVER 2,2022-07-09,ACTUAL,14.3,13.3,94,125,5,6.4,,16.1,2,54,0,4,0,1
+BLUE RIVER 2,2022-07-10,ACTUAL,19.2,12.8,66,75,6,5.4,,41,2,54,0.1,4,0,1
+BLUE RIVER 2,2022-07-11,ACTUAL,24.7,9.8,39,37,8,0,,78.7,6,62,1.5,9,1,1
+BLUE RIVER 2,2022-07-12,ACTUAL,31.2,-0.6,13,196,23,0,,95.9,12,72,30.6,17,30,3
+BLUE RIVER 2,2022-07-13,ACTUAL,24,2.7,25,245,12,0.2,,94.8,17,80,15.1,22,20,3
+BLUE RIVER 2,2022-07-14,ACTUAL,24.8,9.4,38,256,6,0,,92.7,21,88,8.4,26,14,3
+BLUE RIVER 2,2022-07-15,ACTUAL,23.9,9.8,41,55,5,0,,91.6,24,96,7,30,13,3
+BLUE RIVER 2,2022-07-16,ACTUAL,24.5,10,40,33,8,2.2,,82.8,24,104,2.3,31,5,2
+BLUE RIVER 2,2022-07-17,ACTUAL,26.3,11.6,40,76,6,0.4,,88.9,28,112,4.8,35,11,3
+BLUE RIVER 2,2022-07-18,ACTUAL,26.4,7.8,31,213,11,1.4,,88.7,33,121,6.2,39,14,3
+BLUE RIVER 2,2022-07-19,ACTUAL,22,14.7,63,54,9,2.2,,75.7,30,129,1.3,38,3,2
+BLUE RIVER 2,2022-07-20,ACTUAL,27,8.8,32,123,7,0,,89.4,35,137,5.4,43,13,3
+BLUE RIVER 2,2022-07-21,ACTUAL,30,7.8,25,171,7,0,,93.4,40,146,9.8,48,21,4
+BLUE RIVER 2,2022-07-22,ACTUAL,29.4,6.1,23,143,9,0,,94.2,46,155,12.1,53,26,4
+BLUE RIVER 2,2022-07-23,ACTUAL,29.1,4.5,21,134,9,0,,94.6,51,164,12.8,58,28,4
+BLUE RIVER 2,2022-07-24,ACTUAL,27.9,9.6,32,16,10,0,,93.8,56,173,12.1,62,28,4
+BLUE RIVER 2,2022-07-25,ACTUAL,28.6,9.7,31,87,9,0,,93.8,61,182,11.5,66,28,4
+BLUE RIVER 2,2022-07-26,ACTUAL,30.8,8.5,25,66,5,0,,94,67,191,9.8,71,26,4
+BLUE RIVER 2,2022-07-27,ACTUAL,31.1,10.4,28,49,8,0,,94.1,72,200,11.6,76,30,4
+BLUE RIVER 2,2022-07-28,ACTUAL,33.2,11.1,26,16,6,0,,94.2,78,210,10.3,81,29,4
+BLUE RIVER 2,2022-07-29,ACTUAL,23.7,15.6,60,157,3,0,,89.3,80,218,4.6,84,16,4
+BLUE RIVER 2,2022-07-30,ACTUAL,30.9,10.7,29,110,5,0,,92.7,86,227,8.2,88,26,4
+BLUE RIVER 2,2022-07-31,ACTUAL,32.6,12.7,30,205,6,0.2,,93.2,91,237,9.2,93,29,4
+BLUE RIVER 2,2022-08-01,ACTUAL,24.5,14.7,54,17,9,0,,89.8,94,244,6.4,96,23,4
+BLUE RIVER 2,2022-08-02,ACTUAL,24.3,7.3,34,210,15,5.4,,78.8,61,240,2.1,75,8,4
+BLUE RIVER 2,2022-08-03,ACTUAL,14.5,13.9,96,152,4,17.6,,17.8,27,201,0,40,0,2
+BLUE RIVER 2,2022-08-04,ACTUAL,11.8,9.9,88,169,7,35,,14.1,9,124,0,16,0,1
+BLUE RIVER 2,2022-08-05,ACTUAL,18,8.6,54,48,7,0.4,,52.5,11,130,0.3,19,0,1
+BLUE RIVER 2,2022-08-06,ACTUAL,21.9,11,50,27,7,0.2,,77.2,14,137,1.2,22,2,2
+BLUE RIVER 2,2022-08-07,ACTUAL,27.4,12.2,39,97,8,0,,88.6,17,145,5.3,27,10,3
+BLUE RIVER 2,2022-08-08,ACTUAL,29.3,6.6,24,163,9,0,,93.4,22,154,11,32,19,3
+BLUE RIVER 2,2022-08-09,ACTUAL,27.8,9,31,55,6,0,,93.5,26,162,9.6,37,19,3
+BLUE RIVER 2,2022-08-10,ACTUAL,30.4,12.7,34,159,5,0,,93.5,30,170,9,42,19,3
+BLUE RIVER 2,2022-08-11,ACTUAL,25.5,15.6,54,26,18,9.6,,72.1,17,158,1.7,27,3,2
+BLUE RIVER 2,2022-08-12,ACTUAL,28.3,14.1,42,29,7,0,,87.2,21,166,4,32,8,3
+BLUE RIVER 2,2022-08-13,ACTUAL,27,11.4,38,209,24,2.2,,86.6,22,174,8.7,33,16,3
+BLUE RIVER 2,2022-08-14,ACTUAL,22.9,11,47,175,7,0,,88,24,181,4.5,36,10,3
+BLUE RIVER 2,2022-08-15,ACTUAL,26.5,12.5,42,69,7,0,,89.6,27,189,5.7,40,13,3
+BLUE RIVER 2,2022-08-16,ACTUAL,24.5,13.4,50,84,5,0,,89.6,30,196,5.2,44,13,3
+BLUE RIVER 2,2022-08-17,ACTUAL,27.5,12.7,40,79,9,0,,90.3,34,204,7,48,17,3
+BLUE RIVER 2,2022-08-18,ACTUAL,28.3,13,39,44,7,0,,90.7,37,212,6.8,52,17,4
+BLUE RIVER 2,2022-08-19,ACTUAL,22,15.7,67,206,9,0.4,,87.1,39,219,4.5,54,13,3
+BLUE RIVER 2,2022-08-20,ACTUAL,27.6,13.5,42,40,9,0,,89.7,42,227,6.3,58,17,4
+BLUE RIVER 2,2022-08-21,ACTUAL,19.3,14.8,75,73,6,1,,80.5,43,234,1.6,59,5,3
+BLUE RIVER 2,2022-08-22,ACTUAL,27.9,15.6,47,38,8,0,,87.8,47,242,4.7,63,14,3
+BLUE RIVER 2,2022-08-23,ACTUAL,19,14.1,73,221,8,0,,85.4,48,248,3.3,64,11,3
+BLUE RIVER 2,2022-08-24,ACTUAL,26.9,14,45,16,6,0,,88.7,51,256,4.9,68,15,3
+BLUE RIVER 2,2022-08-25,ACTUAL,27.6,12.4,39,43,7,0,,90.4,54,264,6.5,72,20,4
+BLUE RIVER 2,2022-08-26,ACTUAL,24.7,14.6,53,228,9,0.2,,89.4,57,272,6.2,75,19,4
+BLUE RIVER 2,2022-08-27,ACTUAL,14,10.3,78,42,5,32.4,,32.9,22,188,0,34,0,2
+BLUE RIVER 2,2022-08-28,MANUAL,15.6,9.8,68,52,5,0.2,,56,23,194,0.4,36,1,2
+BLUE RIVER 2,2022-08-29,ACTUAL,24.2,12.2,47,218,6,0.2,,80.3,26,201,1.6,39,4,2
+BLUE RIVER 2,2022-08-30,ACTUAL,25.8,14.3,49,46,6,0,,86.8,29,209,3.7,43,10,3
+BLUE RIVER 2,2022-08-31,ACTUAL,26.8,13.2,43,27,5,0,,89.2,32,217,4.9,47,13,3
+BLUE RIVER 2,2022-09-01,ACTUAL,28.8,7.3,26,214,20,0,,93.2,36,224,18.8,51,35,4
+BLUE RIVER 2,2022-09-02,ACTUAL,27.4,12.2,39,136,5,0,,92.4,39,230,7.7,55,19,4
+BLUE RIVER 2,2022-09-03,ACTUAL,25.3,12.9,46,268,4,0,,91,42,237,6.1,58,17,3
+BLUE RIVER 2,2022-09-04,ACTUAL,15.1,14.1,94,153,3,1.4,,71.1,42,241,0.7,58,2,3
+BLUE RIVER 2,2022-09-05,ACTUAL,15,6.3,56,228,19,3.8,,65.8,32,239,1.4,47,4,3
+BLUE RIVER 2,2022-09-06,ACTUAL,14.5,7.6,63,49,9,0,,76.7,33,243,1.3,49,4,3
+BLUE RIVER 2,2022-09-07,ACTUAL,23.3,0.9,23,216,17,1.4,,88.2,36,249,7.6,53,19,4
+BLUE RIVER 2,2022-09-08,ACTUAL,17.5,5.7,46,202,11,0,,88.2,38,254,5.8,55,16,3
+BLUE RIVER 2,2022-09-09,ACTUAL,18.6,4.3,39,60,5,0,,88.9,40,259,4.7,58,14,3
+BLUE RIVER 2,2022-09-10,ACTUAL,20.5,6.7,41,73,5,0,,89,42,264,4.8,60,14,3
+BLUE RIVER 2,2022-09-11,ACTUAL,18.7,9,53,47,5,0,,88.5,44,269,4.4,62,13,3
+BLUE RIVER 2,2022-09-12,ACTUAL,19.6,9.5,52,40,5,0,,88.5,46,275,4.4,64,14,3
+BLUE RIVER 2,2022-09-13,ACTUAL,20.7,9.9,50,101,4,0,,88.6,48,280,4.2,67,14,3
+BLUE RIVER 2,2022-09-14,ACTUAL,19.5,10.6,56,67,4,0,,88,49,285,4,69,13,3
+BLUE RIVER 2,2022-09-15,ACTUAL,13.1,12.8,98,92,3,15.2,,18,22,246,0,36,0,2
+BLUE RIVER 2,2022-09-16,ACTUAL,13.7,12.4,92,124,5,11,,12.4,11,223,0,19,0,1
+BLUE RIVER 2,2022-09-17,ACTUAL,14.5,4.2,50,78,6,4.8,,42.1,8,218,0.1,14,0,1
+BLUE RIVER 2,2022-09-18,ACTUAL,14,6.2,59,158,6,0,,64.2,9,222,0.7,16,1,1
+BLUE RIVER 2,2022-09-19,ACTUAL,11.6,8.3,80,201,12,1.6,,62,9,226,0.9,16,1,1
+BLUE RIVER 2,2022-09-20,ACTUAL,14.5,5.3,54,90,6,0,,76.1,10,230,1.1,18,1,1
+BLUE RIVER 2,2022-09-21,ACTUAL,14.4,4.7,52,29,5,0,,82.2,11,234,1.9,20,3,2
+BLUE RIVER 2,2022-09-22,ACTUAL,15.8,6.5,54,41,7,0,,84.7,13,239,2.8,22,5,2
+BLUE RIVER 2,2022-09-23,ACTUAL,15.3,7.4,59,73,6,0,,85,14,243,2.9,24,5,2
+BLUE RIVER 2,2022-09-24,ACTUAL,16.2,11.2,72,45,7,5.2,,54.2,9,237,0.4,16,0,1
+BLUE RIVER 2,2022-09-25,ACTUAL,18.9,8.9,52,38,7,0,,75.6,11,242,1.1,19,1,1
+BLUE RIVER 2,2022-09-26,ACTUAL,19.5,10.3,55,12,3,0,,82.5,12,247,1.8,22,3,2
+BLUE RIVER 2,2022-09-27,ACTUAL,18.2,11.1,63,46,6,0,,84,14,252,2.5,24,5,2
+BLUE RIVER 2,2022-09-28,ACTUAL,17.9,10.1,60,53,6,0.2,,84.9,15,257,2.8,26,5,2
+BLUE RIVER 2,2022-09-29,ACTUAL,19.1,9.9,55,250,6,0,,86,17,262,3.3,29,7,2
+BLUE RIVER 2,2022-09-30,ACTUAL,16.5,11.9,74,36,7,0.2,,84.6,17,267,2.8,30,6,2
+BLUE RIVER 2,2022-10-01,ACTUAL,17.9,8.8,55,60,4,0.2,,85.6,19,271,2.8,32,6,2
+BLUE RIVER 2,2022-10-02,ACTUAL,17.6,10.3,62,67,4,0,,85.7,20,275,2.8,33,6,2
+BLUE RIVER 2,2022-10-03,ACTUAL,18.9,11.1,60,45,6,0.2,,85.7,21,279,3.2,35,7,2
+BLUE RIVER 2,2022-10-04,ACTUAL,17.8,10.5,62,59,4,0,,85.8,22,283,2.9,37,7,2
+BLUE RIVER 2,2022-10-05,ACTUAL,17.5,10.7,64,54,5,0,,85.8,23,287,3,38,7,2
+BLUE RIVER 2,2022-10-06,ACTUAL,17.5,9.5,59,83,6,0,,85.9,24,291,3.2,40,8,2
+BLUE RIVER 2,2022-10-07,ACTUAL,14.9,8.2,64,69,5,0.2,,85.8,25,294,3,41,8,2
+BLUE RIVER 2,2022-10-08,ACTUAL,12.5,8.2,75,39,4,0,,84.1,26,297,2.3,42,6,2
+BLUE RIVER 2,2022-10-09,ACTUAL,11.2,7.9,80,107,4,0.2,,82.7,26,300,1.9,43,5,2
+BLUE RIVER 2,2022-10-10,ACTUAL,8.1,7.8,98,75,6,2,,55.6,23,302,0.4,39,1,2
+BLUE RIVER 2,2022-10-11,ACTUAL,8.2,3.3,71,43,7,0.2,,66.7,24,304,0.8,40,1,2
+BLUE RIVER 2,2022-10-12,ACTUAL,11.4,5.3,66,32,4,0,,74.6,24,307,0.9,40,2,2
+BLUE RIVER 2,2022-10-13,ACTUAL,11.1,5.3,67,94,3,0,,78.6,25,310,1.2,41,3,2
+BLUE RIVER 2,2022-10-14,ACTUAL,13.4,7.7,68,218,5,0,,81.1,26,313,1.6,42,4,2
+BLUE RIVER 2,2022-10-15,ACTUAL,10.1,6.3,77,80,6,0.2,,81.1,26,315,1.7,43,5,3
+BLUE RIVER 2,2022-10-16,ACTUAL,10.5,5.9,73,46,6,0.2,,81.5,26,318,1.8,44,5,3
+BLUE RIVER 2,2022-10-17,ACTUAL,8.8,6.9,88,73,3,0,,80.1,27,320,1.3,44,4,3
+BLUE RIVER 2,2022-10-18,ACTUAL,9.2,7,86,15,2,0.2,,80,27,322,1.3,44,3,3
+BLUE RIVER 2,2022-10-19,ACTUAL,7,6.7,98,71,4,0.2,,76.1,27,324,1,44,2,3
+BLUE RIVER 2,2022-10-20,ACTUAL,14.3,0.4,39,225,20,0.4,,85.4,28,328,6,46,15,3
+BLUE RIVER 2,2022-10-21,ACTUAL,8.6,-1,51,205,14,0,,85.4,29,330,4.5,48,12,3
+BLUE RIVER 2,2022-10-22,MANUAL,7,-0.7,58,220,10,0,,85.5,29,332,3.7,48,10,3
+BLUE RIVER 2,2022-10-23,ACTUAL,5.8,-1.6,59,32,8,0,,85.3,30,334,3.2,49,9,3
+BLUE RIVER 2,2022-10-24,ACTUAL,1.5,1.2,98,217,4,12.4,,18.5,13,296,0,24,0,2
+BLUE RIVER 2,2022-10-25,ACTUAL,4.8,2.5,85,90,4,4.8,,18.2,8,286,0,15,0,1
+BLUE RIVER 2,2022-10-26,ACTUAL,5.2,2.5,83,79,5,8,,17.4,4,267,0,8,0,1
+BLUE RIVER 2,2022-10-27,ACTUAL,8.4,1.6,62,229,21,0.4,,48.9,5,269,0.4,9,0,1
+BLUE RIVER 2,2022-10-28,ACTUAL,10.7,-0.2,47,210,16,0,,72.1,6,272,1.5,11,1,1
+BLUE RIVER 2,2022-10-29,ACTUAL,8.8,0.5,56,215,7,0,,78.9,6,274,1.5,12,1,1
+BLUE RIVER 2,2022-10-30,ACTUAL,11.4,4.7,63,215,13,1.2,,75.9,7,277,1.5,13,1,2
+BLUE RIVER 2,2022-10-31,ACTUAL,4.7,3.8,94,32,6,3.2,,42.4,4,273,0.1,8,0,1
+BLUEBERRY,2022-05-01,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-02,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-03,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-04,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-05,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-06,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-07,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-08,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-09,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-10,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-11,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-12,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-13,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-14,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-15,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-16,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-17,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-18,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-19,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-20,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-21,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-22,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-23,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-24,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-25,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-26,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-27,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-28,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-29,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-30,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-05-31,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-01,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-02,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-03,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-04,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-05,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-06,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-07,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-08,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-09,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-10,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-11,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-12,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-13,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-14,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-15,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-16,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-17,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-18,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-19,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-20,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-21,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-22,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-23,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-24,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-25,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-26,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-27,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-28,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-29,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-06-30,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-01,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-02,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-03,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-04,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-05,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-06,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-07,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-08,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-09,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-10,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-11,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-12,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-13,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-14,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-15,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-16,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-17,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-18,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-19,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-20,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-21,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-22,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-23,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-24,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-25,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-26,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-27,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-28,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-29,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-30,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-07-31,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-01,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-02,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-03,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-04,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-05,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-06,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-07,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-08,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-09,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-10,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-11,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-12,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-13,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-14,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-15,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-16,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-17,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-18,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-19,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-20,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-21,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-22,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-23,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-24,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-25,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-26,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-27,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-28,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-29,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-30,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-08-31,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-01,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-02,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-03,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-04,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-05,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-06,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-07,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-08,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-09,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-10,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-11,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-12,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-13,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-14,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-15,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-16,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-17,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-18,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-19,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-20,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-21,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-22,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-23,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-24,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-25,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-26,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-27,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-28,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-29,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-09-30,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-01,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-02,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-03,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-04,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-05,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-06,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-07,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-08,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-09,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-10,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-11,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-12,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-13,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-14,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-15,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-16,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-17,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-18,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-19,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-20,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-21,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-22,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-23,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-24,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-25,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-26,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-27,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-28,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-29,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-30,[object Object],,,,,,,,,,,,,,
+BLUEBERRY,2022-10-31,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-01,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-02,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-03,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-04,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-05,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-06,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-07,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-08,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-09,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-10,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-11,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-12,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-13,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-14,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-15,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-16,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-17,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-18,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-19,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-20,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-21,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-22,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-23,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-24,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-25,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-26,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-27,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-28,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-29,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-30,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-05-31,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-01,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-02,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-03,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-04,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-05,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-06,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-07,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-08,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-09,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-10,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-11,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-12,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-13,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-14,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-15,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-16,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-17,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-18,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-19,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-20,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-21,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-22,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-23,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-24,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-25,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-26,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-27,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-28,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-29,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-06-30,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-01,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-02,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-03,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-04,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-05,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-06,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-07,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-08,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-09,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-10,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-11,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-12,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-13,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-14,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-15,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-16,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-17,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-18,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-19,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-20,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-21,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-22,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-23,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-24,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-25,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-26,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-27,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-28,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-29,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-30,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-07-31,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-01,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-02,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-03,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-04,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-05,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-06,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-07,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-08,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-09,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-10,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-11,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-12,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-13,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-14,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-15,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-16,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-17,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-18,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-19,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-20,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-21,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-22,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-23,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-24,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-25,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-26,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-27,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-28,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-29,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-30,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-08-31,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-01,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-02,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-03,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-04,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-05,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-06,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-07,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-08,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-09,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-10,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-11,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-12,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-13,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-14,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-15,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-16,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-17,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-18,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-19,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-20,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-21,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-22,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-23,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-24,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-25,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-26,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-27,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-28,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-29,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-09-30,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-01,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-02,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-03,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-04,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-05,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-06,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-07,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-08,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-09,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-10,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-11,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-12,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-13,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-14,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-15,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-16,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-17,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-18,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-19,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-20,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-21,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-22,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-23,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-24,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-25,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-26,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-27,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-28,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-29,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-30,[object Object],,,,,,,,,,,,,,
+GOATLICK,2022-10-31,[object Object],,,,,,,,,,,,,,
+GOSNEL,2022-05-01,ACTUAL,8.1,-4.5,41,154,11,0,,,,,,,,
+GOSNEL,2022-05-02,ACTUAL,6.5,1.7,71,98,3,0,,,,,,,,
+GOSNEL,2022-05-03,ACTUAL,6.9,-1.3,56,139,15,0,,,,,,,,
+GOSNEL,2022-05-04,ACTUAL,0.4,0.4,100,164,23,0,,,,,,,,
+GOSNEL,2022-05-05,ACTUAL,5.8,4.7,93,158,9,0,,,,,,,,
+GOSNEL,2022-05-06,ACTUAL,0.5,0.5,100,173,11,0,,,,,,,,
+GOSNEL,2022-05-07,ACTUAL,1.6,1.5,99,246,0,0,,,,,,,,
+GOSNEL,2022-05-08,ACTUAL,2,1,93,123,7,0,,,,,,,,
+GOSNEL,2022-05-09,ACTUAL,2.3,-0.3,83,345,6,0,,,,,,,,
+GOSNEL,2022-05-10,ACTUAL,-0.1,-0.4,98,167,8,0,,,,,,,,
+GOSNEL,2022-05-11,ACTUAL,3,0.4,83,139,14,0,,,,,,,,
+GOSNEL,2022-05-12,ACTUAL,6.8,-1.1,57,143,16,0,,,,,,,,
+GOSNEL,2022-05-13,ACTUAL,0.5,-1,90,176,19,0,,,,,,,,
+GOSNEL,2022-05-14,ACTUAL,1.5,-2.4,75,168,11,0,,,,,,,,
+GOSNEL,2022-05-15,ACTUAL,4.2,1.1,80,185,4,0,,,,,,,,
+GOSNEL,2022-05-16,ACTUAL,3.4,2,91,166,23,0,,,,,,,,
+GOSNEL,2022-05-17,ACTUAL,1.2,0.2,93,158,17,0,,,,,,,,
+GOSNEL,2022-05-18,ACTUAL,-1.3,-1.7,97,162,33,0,,,,,,,,
+GOSNEL,2022-05-19,ACTUAL,3.4,2,91,350,10,0,,,,,,,,
+GOSNEL,2022-05-20,ACTUAL,5.2,-2.6,57,330,11,0,,,,,,,,
+GOSNEL,2022-05-21,ACTUAL,5.8,-9.8,32,81,4,0,,,,,,,,
+GOSNEL,2022-05-22,ACTUAL,11.6,-6.4,28,109,6,0,,,,,,,,
+GOSNEL,2022-05-23,ACTUAL,6.7,-4.2,46,171,11,0,,,,,,,,
+GOSNEL,2022-05-24,ACTUAL,4.4,1.8,83,134,10,0,,,,,,,,
+GOSNEL,2022-05-25,ACTUAL,4.8,1,76,159,16,0,,,,,,,,
+GOSNEL,2022-05-26,ACTUAL,10,-0.5,48,143,10,0,,,,,,,,
+GOSNEL,2022-05-27,ACTUAL,6.8,3.8,81,156,16,0,,,,,,,,
+GOSNEL,2022-05-28,ACTUAL,7.2,0.2,61,149,12,0,,,,,,,,
+GOSNEL,2022-05-29,ACTUAL,6.9,-2.6,51,24,6,0,,,,,,,,
+GOSNEL,2022-05-30,ACTUAL,9.5,-2.5,43,30,8,0,,,,,,,,
+GOSNEL,2022-05-31,ACTUAL,12.6,-3,34,2,5,0,,,,,,,,
+GOSNEL,2022-06-01,ACTUAL,9.7,-0.5,49,344,3,0,,,,,,,,
+GOSNEL,2022-06-02,ACTUAL,14.1,-1.7,34,136,13,0,,,,,,,,
+GOSNEL,2022-06-03,ACTUAL,14.5,3,46,132,4,0,,,,,,,,
+GOSNEL,2022-06-04,ACTUAL,11.5,0.5,47,118,7,0,,,,,,,,
+GOSNEL,2022-06-05,ACTUAL,9.9,4.9,71,151,5,0,,,,,,,,
+GOSNEL,2022-06-06,ACTUAL,9.4,5,74,155,15,0,,,,,,,,
+GOSNEL,2022-06-07,ACTUAL,12,3.3,55,240,4,0,,,,,,,,
+GOSNEL,2022-06-08,ACTUAL,5.7,4.8,94,178,11,0,,,,,,,,
+GOSNEL,2022-06-09,ACTUAL,10.3,-0.9,46,137,16,3.4,,,,,,,,
+GOSNEL,2022-06-10,ACTUAL,6.9,6.4,97,153,11,6,,,,,,,,
+GOSNEL,2022-06-11,ACTUAL,12.8,2.3,49,47,7,74.4,,,,,,,,
+GOSNEL,2022-06-12,ACTUAL,10.7,2.3,56,29,6,42.2,,,,,,,,
+GOSNEL,2022-06-13,ACTUAL,10,1.4,55,6,5,30.6,,,,,,,,
+GOSNEL,2022-06-14,ACTUAL,11.5,1.4,50,339,10,17,,,,,,,,
+GOSNEL,2022-06-15,ACTUAL,13.7,0.9,42,26,10,0.2,,,,,,,,
+GOSNEL,2022-06-16,ACTUAL,7.2,4.7,84,355,3,2.8,,,,,,,,
+GOSNEL,2022-06-17,ACTUAL,11.1,2.7,56,333,9,6.6,,,,,,,,
+GOSNEL,2022-06-18,ACTUAL,7.7,5.3,85,179,13,1.6,,,,,,,,
+GOSNEL,2022-06-19,ACTUAL,8.9,5.7,80,137,7,0.4,,,,,,,,
+GOSNEL,2022-06-20,ACTUAL,10.5,5.1,69,134,10,0.2,,,,,,,,
+GOSNEL,2022-06-21,ACTUAL,7.3,6.1,92,183,17,1.4,,,,,,,,
+GOSNEL,2022-06-22,ACTUAL,6.5,6.5,100,215,6,20,,,,,,,,
+GOSNEL,2022-06-23,ACTUAL,1.4,0.8,96,181,7,14.2,,,,,,,,
+GOSNEL,2022-06-24,ACTUAL,9.1,1.8,60,10,8,7,,,,,,,,
+GOSNEL,2022-06-25,ACTUAL,14.9,-1.4,33,95,8,0,,,,,,,,
+GOSNEL,2022-06-26,ACTUAL,18.7,-0.3,28,141,8,0,,,,,,,,
+GOSNEL,2022-06-27,ACTUAL,21.7,0.2,24,41,5,0,,,,,,,,
+GOSNEL,2022-06-28,ACTUAL,7.8,7.6,99,178,9,6.2,,,,,,,,
+GOSNEL,2022-06-29,ACTUAL,5.9,5.7,99,149,13,12.6,,,,,,,,
+GOSNEL,2022-06-30,ACTUAL,16.7,5,46,33,5,2.2,,,,,,,,
+GOSNEL,2022-07-01,ACTUAL,17.4,1.7,35,40,6,0,,,,,,,,
+GOSNEL,2022-07-02,ACTUAL,17.4,6,47,137,6,0.4,,,,,,,,
+GOSNEL,2022-07-03,ACTUAL,16.6,5.2,47,22,10,0,,,,,,,,
+GOSNEL,2022-07-04,ACTUAL,14.1,8.1,67,120,5,1.2,,,,,,,,
+GOSNEL,2022-07-05,ACTUAL,6.5,6.5,100,180,13,18.8,,,,,,,,
+GOSNEL,2022-07-06,ACTUAL,16.5,4.8,46,150,12,0,,,,,,,,
+GOSNEL,2022-07-07,ACTUAL,11,9.4,90,160,14,3,,,,,,,,
+GOSNEL,2022-07-08,ACTUAL,8.9,8,94,152,17,34,,,,,,,,
+GOSNEL,2022-07-09,ACTUAL,9.8,5.6,75,166,17,14.2,,,,,,,,
+GOSNEL,2022-07-10,ACTUAL,10.4,6.2,75,179,7,1.8,,85,6,15,3,6,2,
+GOSNEL,2022-07-11,ACTUAL,16,7.8,58,139,19,0.2,,85.3,8,22,5.8,8,6,2
+GOSNEL,2022-07-12,ACTUAL,21.3,1.4,27,132,20,0,,91.1,12,29,13.7,12,14,2
+GOSNEL,2022-07-13,ACTUAL,12.7,-0.3,41,230,9,2,,77.4,12,35,1.4,13,1,1
+GOSNEL,2022-07-14,ACTUAL,13.7,4.6,54,142,17,0,,83.2,13,41,3.8,15,5,2
+GOSNEL,2022-07-15,ACTUAL,21.2,1.4,27,133,13,0,,90.5,17,49,9.1,18,12,2
+GOSNEL,2022-07-16,ACTUAL,12.5,7.8,73,187,7,7.2,,47.3,10,44,0.2,13,0,1
+GOSNEL,2022-07-17,ACTUAL,17.3,6.2,48,9,5,0.4,,71.7,12,51,0.8,15,1,1
+GOSNEL,2022-07-18,ACTUAL,14.7,4.7,51,261,4,1.6,,71.7,13,58,0.8,17,1,1
+GOSNEL,2022-07-19,ACTUAL,13.1,9.2,77,159,8,0.8,,73.4,14,64,1.1,18,1,1
+GOSNEL,2022-07-20,ACTUAL,17.9,4,40,237,8,0,,84.6,17,71,3,21,5,2
+GOSNEL,2022-07-21,ACTUAL,21.1,2.7,30,194,12,0,,90.1,20,78,8.2,25,13,3
+GOSNEL,2022-07-22,ACTUAL,19.8,3.4,34,43,5,0,,90.3,24,85,5.9,28,11,3
+GOSNEL,2022-07-23,ACTUAL,19.2,6.3,43,133,6,0,,90.1,26,93,5.8,31,11,3
+GOSNEL,2022-07-24,ACTUAL,17.8,6,46,286,6,0,,89.5,29,99,5.4,33,11,3
+GOSNEL,2022-07-25,ACTUAL,19.8,8.2,47,38,6,0,,89.5,31,107,5.3,36,12,3
+GOSNEL,2022-07-26,ACTUAL,17.8,8.7,55,23,6,0,,88.2,33,114,4.5,39,10,3
+GOSNEL,2022-07-27,ACTUAL,23.4,7,35,53,5,0,,90.2,37,122,5.6,42,13,3
+GOSNEL,2022-07-28,ACTUAL,26.6,8.5,32,112,7,0,,91.6,42,130,7.8,46,18,4
+GOSNEL,2022-07-29,ACTUAL,19.1,9,52,165,11,0,,89.2,44,137,6.7,49,16,3
+GOSNEL,2022-07-30,ACTUAL,21.9,9.1,44,66,3,0,,89.2,47,145,4.5,52,12,3
+GOSNEL,2022-07-31,ACTUAL,23.1,7.9,38,139,13,0.2,,90,50,153,8.2,55,20,4
+GOSNEL,2022-08-01,ACTUAL,19.5,10,54,160,19,1.6,,81.7,50,159,3.5,56,11,3
+GOSNEL,2022-08-02,ACTUAL,14.5,6.1,57,134,14,1.2,,79.1,52,165,2.1,58,7,3
+GOSNEL,2022-08-03,ACTUAL,8.1,8.1,100,159,16,6.8,,23.3,31,156,0,41,0,2
+GOSNEL,2022-08-04,ACTUAL,3.6,3.6,100,192,16,40.2,,0.1,10,76,0,15,0,1
+GOSNEL,2022-08-05,ACTUAL,8.7,6.8,88,117,4,6.4,,11,5,71,0,9,0,1
+GOSNEL,2022-08-06,ACTUAL,14.4,6.5,59,133,13,0,,48.3,7,77,0.3,11,0,1
+GOSNEL,2022-08-07,ACTUAL,18,8.9,55,167,15,0,,74.5,8,83,1.6,13,2,2
+GOSNEL,2022-08-08,ACTUAL,19.8,4.6,37,20,6,0,,85.7,11,90,3.2,17,5,2
+GOSNEL,2022-08-09,ACTUAL,23.3,7.7,37,149,10,0,,89.5,14,97,6.7,21,10,3
+GOSNEL,2022-08-10,ACTUAL,24.4,7,33,124,8,0,,91,18,104,7.4,25,12,3
+GOSNEL,2022-08-11,ACTUAL,17.8,10.7,63,33,11,4,,66.2,13,105,1,20,1,2
+GOSNEL,2022-08-12,ACTUAL,23.1,7.9,38,132,11,0,,85.4,16,112,3.9,24,7,2
+GOSNEL,2022-08-13,ACTUAL,19.4,9.9,54,142,17,0.2,,86.4,18,119,5.9,27,11,3
+GOSNEL,2022-08-14,ACTUAL,13.5,7.1,65,146,15,0.6,,83.9,19,124,3.9,28,8,2
+GOSNEL,2022-08-15,ACTUAL,17.4,7.8,53,142,14,0,,85.8,21,130,4.9,30,10,3
+GOSNEL,2022-08-16,ACTUAL,17,8.5,57,158,14,0,,85.9,23,137,4.7,32,10,3
+GOSNEL,2022-08-17,ACTUAL,20.3,8.6,47,97,6,0.2,,87.4,25,143,4,35,9,3
+GOSNEL,2022-08-18,ACTUAL,23.7,7.2,35,135,6,0,,90.1,29,150,6,39,13,3
+GOSNEL,2022-08-19,ACTUAL,20.2,12,59,45,5,2,,75.8,27,157,1,38,2,2
+GOSNEL,2022-08-20,ACTUAL,18.4,11.3,63,149,6,0.4,,81.6,29,163,1.9,40,5,2
+GOSNEL,2022-08-21,ACTUAL,18.7,9.8,56,152,9,2,,75.2,28,170,1.2,39,3,2
+GOSNEL,2022-08-22,ACTUAL,21.6,11.4,52,147,12,0,,84.6,30,177,3.7,42,9,3
+GOSNEL,2022-08-23,ACTUAL,14.6,11.2,80,333,8,0.8,,79.2,30,182,1.6,43,4,2
+GOSNEL,2022-08-24,ACTUAL,21.4,11.8,54,108,7,0.6,,84.2,33,189,2.7,46,7,3
+GOSNEL,2022-08-25,ACTUAL,22.6,7.5,38,81,6,0,,88.7,36,196,4.7,49,13,3
+GOSNEL,2022-08-26,ACTUAL,16.9,10.1,64,149,18,0,,86.6,37,202,6.4,51,16,3
+GOSNEL,2022-08-27,ACTUAL,7.2,7.2,100,308,5,41.8,,10.1,12,110,0,19,0,1
+GOSNEL,2022-08-28,ACTUAL,7.1,5.1,87,171,19,0.2,,27.1,12,114,0,19,0,1
+GOSNEL,2022-08-29,ACTUAL,16.4,9.4,63,115,12,0,,59.3,13,120,0.7,21,1,2
+GOSNEL,2022-08-30,ACTUAL,19.8,9.7,52,149,17,0,,80.3,15,127,2.8,24,5,2
+GOSNEL,2022-08-31,ACTUAL,23,8.6,40,136,14,0,,88.1,18,134,6.4,27,12,3
+GOSNEL,2022-09-01,ACTUAL,15.9,6.4,53,221,5,2.4,,72,16,139,0.9,25,1,2
+GOSNEL,2022-09-02,ACTUAL,21.9,5.6,35,149,24,0,,87.8,19,144,10.5,29,17,3
+GOSNEL,2022-09-03,ACTUAL,22.7,5.1,32,160,16,0,,90.7,22,150,10.8,32,19,3
+GOSNEL,2022-09-04,ACTUAL,8.3,7.4,94,170,21,3,,52.6,17,150,0.6,26,1,2
+GOSNEL,2022-09-05,ACTUAL,8.2,5.7,84,181,10,3.8,,39.3,12,148,0,20,0,1
+GOSNEL,2022-09-06,ACTUAL,11.7,1.9,51,139,6,0,,63,13,151,0.6,21,1,2
+GOSNEL,2022-09-07,ACTUAL,14,-2.2,33,220,10,0,,81.2,15,156,2.1,24,4,2
+GOSNEL,2022-09-08,ACTUAL,9.6,3.4,65,48,6,0,,82.2,15,159,1.9,25,4,2
+GOSNEL,2022-09-09,ACTUAL,11.4,0.7,48,128,9,0,,84.9,16,163,3.2,26,6,2
+GOSNEL,2022-09-10,ACTUAL,15.7,3.1,43,141,11,0,,87.1,18,167,4.8,29,9,3
+GOSNEL,2022-09-11,ACTUAL,15.8,3.2,43,174,17,0,,87.7,20,172,7.2,31,14,3
+GOSNEL,2022-09-12,ACTUAL,16.9,4.5,44,148,15,0,,87.9,22,177,6.8,33,13,3
+GOSNEL,2022-09-13,ACTUAL,16.8,7.5,54,111,6,0,,87.8,23,181,4.1,35,9,3
+GOSNEL,2022-09-14,ACTUAL,16.1,6,51,29,4,0,,87.8,25,186,3.8,37,9,3
+GOSNEL,2022-09-15,ACTUAL,8.2,7.9,98,162,18,2,,58.9,22,189,1,34,2,2
+GOSNEL,2022-09-16,ACTUAL,6.9,6.9,100,142,15,5.6,,20.1,13,182,0,22,0,2
+GOSNEL,2022-09-17,ACTUAL,4.1,2.6,90,159,7,12,,12.1,6,158,0,11,0,1
+GOSNEL,2022-09-18,ACTUAL,9,3,66,148,8,0,,37.4,7,161,0,12,0,1
+GOSNEL,2022-09-19,ACTUAL,5.2,4.1,93,2,12,8.8,,16.6,3,147,0,6,0,1
+GOSNEL,2022-09-20,ACTUAL,7.6,-3.3,46,51,5,0,,44.1,4,150,0.1,8,0,1
+GOSNEL,2022-09-21,ACTUAL,14.2,-1.2,35,30,3,0,,69.8,6,154,0.7,11,0,1
+GOSNEL,2022-09-22,ACTUAL,15.2,-0.3,35,158,15,0,,84.2,8,158,4,14,5,2
+GOSNEL,2022-09-23,ACTUAL,5.7,2.7,81,172,19,0,,81.9,8,161,3.7,14,5,2
+GOSNEL,2022-09-24,ACTUAL,7.8,3.5,74,144,13,1.6,,70,8,164,1.2,14,1,1
+GOSNEL,2022-09-25,ACTUAL,13.8,3.5,50,158,16,0,,81.4,9,168,3,16,4,2
+GOSNEL,2022-09-26,ACTUAL,18.1,4.9,42,154,12,0,,86.8,11,173,5.1,19,8,2
+GOSNEL,2022-09-27,ACTUAL,18.5,4.9,41,147,14,0,,88.3,13,178,6.9,22,11,3
+GOSNEL,2022-09-28,ACTUAL,17.6,3,38,154,8,0,,89,15,183,5.5,25,10,3
+GOSNEL,2022-09-29,ACTUAL,14.6,5.1,53,330,6,0,,88,16,188,4.3,27,8,3
+GOSNEL,2022-09-30,ACTUAL,14.5,6.1,57,14,3,0,,87.3,18,192,3.4,29,7,2
+GOSNEL,2022-10-01,ACTUAL,16.9,5.8,48,147,13,0,,87.3,19,196,5.5,31,11,3
+GOSNEL,2022-10-02,ACTUAL,16.8,3,40,356,4,0,,88.3,21,199,4,33,9,3
+GOSNEL,2022-10-03,ACTUAL,17,5.9,48,158,19,0,,88.3,22,203,8.8,35,17,3
+GOSNEL,2022-10-04,ACTUAL,17.9,4,40,146,16,0,,88.7,24,207,8,37,16,3
+GOSNEL,2022-10-05,ACTUAL,16.1,3.5,43,129,9,0,,88.8,25,211,5.6,39,13,3
+GOSNEL,2022-10-06,ACTUAL,14.8,3.9,48,7,8,0,,88.5,27,214,5.1,40,12,3
+GOSNEL,2022-10-07,ACTUAL,16.4,1.9,38,148,11,0,,88.9,28,218,6.2,43,14,3
+GOSNEL,2022-10-08,ACTUAL,14.6,3.7,48,159,7,0,,88.6,29,221,4.9,44,12,3
+GOSNEL,2022-10-09,ACTUAL,14.1,5.2,55,149,8,0,,87.6,30,224,4.5,45,11,3
+GOSNEL,2022-10-10,ACTUAL,4.3,3.5,95,197,13,4,,41.7,21,219,0.1,34,0,2
+GOSNEL,2022-10-11,ACTUAL,0.2,-4.2,72,172,27,0.8,,56,21,219,1.2,34,2,2
+GOSNEL,2022-10-12,ACTUAL,7.9,0.7,60,145,12,0,,70.7,22,222,1.2,35,3,2
+GOSNEL,2022-10-13,ACTUAL,11.4,2.2,53,164,15,0,,80.3,23,224,2.5,36,6,2
+GOSNEL,2022-10-14,ACTUAL,9.2,2.8,64,31,6,0,,81.8,23,227,1.8,37,4,2
+GOSNEL,2022-10-15,ACTUAL,12.4,1.4,47,147,8,0,,85,24,230,3.2,39,8,2
+GOSNEL,2022-10-16,ACTUAL,15.9,-0.9,32,108,4,0,,88.5,26,233,4.3,41,10,3
+GOSNEL,2022-10-17,ACTUAL,15.2,-5.9,23,152,13,0,,91.1,28,237,9.8,43,20,4
+GOSNEL,2022-10-18,ACTUAL,15.1,-2.9,29,143,10,0,,91.2,30,240,8.6,45,19,4
+GOSNEL,2022-10-19,ACTUAL,11.9,-2.1,38,158,19,0,,90.2,31,243,11.7,47,24,4
+GOSNEL,2022-10-20,ACTUAL,4.3,-1,68,312,4,1.2,,76.9,31,244,1.1,47,3,3
+GOSNEL,2022-10-21,ACTUAL,1,-3.8,70,114,5,0,,78.5,31,245,1.3,48,4,3
+GOSNEL,2022-10-22,ACTUAL,-0.7,-5.1,72,7,7,0.4,,79.2,31,246,1.5,48,4,3
+GOSNEL,2022-10-23,ACTUAL,0.5,-6.6,59,158,11,0,,80.9,31,247,2.2,48,6,3
+GOSNEL,2022-10-24,ACTUAL,-2.9,-3.5,96,179,10,0,,77,31,247,1.4,48,4,3
+GOSNEL,2022-10-25,ACTUAL,-3.3,-4.2,94,168,8,0,,75.8,31,247,1.2,48,3,3
+GOSNEL,2022-10-26,ACTUAL,-3.8,-4.5,95,170,6,0,,75,31,247,1,48,3,3
+GOSNEL,2022-10-27,ACTUAL,-1.7,-1.8,99,170,4,0,,73.4,31,248,0.9,48,2,3
+GOSNEL,2022-10-28,ACTUAL,0.1,0.1,100,175,0,0.2,,72.5,31,248,0.7,48,1,3
+GOSNEL,2022-10-29,ACTUAL,-2.2,-2.3,99,158,2,0,,72.1,31,249,0.8,48,2,3
+GOSNEL,2022-10-30,ACTUAL,-0.9,-0.9,100,176,2,0,,71.6,31,249,0.7,48,2,3
+GOSNEL,2022-10-31,ACTUAL,-2.3,-2.4,99,188,2,0,,71.7,31,249,0.7,48,2,3
+MCBRIDE,2022-05-01,ACTUAL,18,-3.5,23,47,9,0,100,91.9,40,67,8.6,40,18,3
+MCBRIDE,2022-05-02,ACTUAL,15.3,1,38,110,15,0,100,90.8,43,72,10.2,43,21,3
+MCBRIDE,2022-05-03,ACTUAL,15.5,-1.3,32,79,9,0.2,,90.8,46,77,7.4,46,17,4
+MCBRIDE,2022-05-04,ACTUAL,13.3,3.9,53,103,17,3,,71.4,38,79,1.5,38,4,2
+MCBRIDE,2022-05-05,ACTUAL,14.7,4.4,50,115,24,0,100,82.7,40,84,5.3,40,12,3
+MCBRIDE,2022-05-06,ACTUAL,11.7,1.6,50,299,19,11.4,100,55.4,21,69,0.7,24,1,2
+MCBRIDE,2022-05-07,ACTUAL,8.2,1.6,63,316,18,0.4,100,70.8,22,73,1.6,25,3,2
+MCBRIDE,2022-05-08,ACTUAL,7.6,-0.1,58,288,19,0,100,78.8,23,77,2.6,26,5,2
+MCBRIDE,2022-05-09,ACTUAL,5.6,1,72,271,15,4.2,100,52.1,16,75,0.4,21,0,2
+MCBRIDE,2022-05-10,ACTUAL,9.6,1.8,58,287,9,2.4,100,56.7,14,79,0.5,19,0,1
+MCBRIDE,2022-05-11,ACTUAL,12.9,3.6,53,193,7,0.8,100,71.4,16,84,0.9,21,1,2
+MCBRIDE,2022-05-12,ACTUAL,15.2,-2.4,30,135,17,0,100,85.8,19,89,5.6,25,10,3
+MCBRIDE,2022-05-13,ACTUAL,11.3,-0.6,44,28,3,0,100,86.5,20,94,3,26,6,2
+MCBRIDE,2022-05-14,ACTUAL,11.3,-3.4,36,90,19,0,100,88,23,98,8.1,29,14,3
+MCBRIDE,2022-05-15,ACTUAL,14.1,1.3,42,109,26,0,100,88,25,103,12,31,20,3
+MCBRIDE,2022-05-16,ACTUAL,17,5.9,48,91,26,0,100,88.1,27,108,11.9,34,21,3
+MCBRIDE,2022-05-17,ACTUAL,7.9,1.6,64,277,18,1.6,100,75,27,112,1.9,34,4,2
+MCBRIDE,2022-05-18,MANUAL,7.6,5.2,85,105,20,1.2,0,68.7,27,116,1.6,34,4,2
+MCBRIDE,2022-05-19,MANUAL,11.5,0.8,48,310,10,1.6,0,71.9,28,121,1.1,35,2,2
+MCBRIDE,2022-05-20,MANUAL,15.6,-6.7,21,275,13,0,0,87.4,31,126,5.7,39,13,3
+MCBRIDE,2022-05-21,ACTUAL,15.7,-6.6,21,110,8,0,0,91.2,35,131,7.5,42,16,3
+MCBRIDE,2022-05-22,ACTUAL,18.3,-7.2,17,142,10,0,0,93.4,39,137,11.6,46,24,4
+MCBRIDE,2022-05-23,ACTUAL,17.8,-3.7,23,199,11,0,100,93.4,43,142,12.3,49,26,4
+MCBRIDE,2022-05-24,ACTUAL,14.8,4.5,50,125,12,0,,89.6,45,147,7.5,51,18,4
+MCBRIDE,2022-05-25,ACTUAL,15.1,2.9,44,84,18,0.4,,89.3,47,152,9.4,53,22,4
+MCBRIDE,2022-05-26,ACTUAL,17.1,6.3,49,91,17,1.8,,80.2,47,158,2.7,54,8,3
+MCBRIDE,2022-05-27,ACTUAL,12.2,8.5,78,83,14,1.6,,70,46,163,1.3,54,4,3
+MCBRIDE,2022-05-28,ACTUAL,16.3,2.2,39,277,9,2.4,,72.7,42,168,1.1,51,3,3
+MCBRIDE,2022-05-29,ACTUAL,14.9,2.4,43,306,15,0.2,,83.6,44,173,3.6,54,11,3
+MCBRIDE,2022-05-30,ACTUAL,19.7,-0.4,26,92,12,0,,90.4,48,179,8.4,57,21,4
+MCBRIDE,2022-05-31,ACTUAL,22.8,-0.1,22,233,7,0.2,,92.9,53,185,9.1,62,23,4
+MCBRIDE,2022-06-01,ACTUAL,22.5,3.5,29,125,13,0,,92.9,57,193,12.2,66,29,4
+MCBRIDE,2022-06-02,ACTUAL,23.7,2.4,25,128,14,0,,93,62,201,13.5,70,32,5
+MCBRIDE,2022-06-03,ACTUAL,18.7,5.8,43,87,9,0,,90.8,65,207,7.6,73,22,4
+MCBRIDE,2022-06-04,ACTUAL,21.7,0.2,24,116,15,0,,92.4,70,215,12.8,77,33,5
+MCBRIDE,2022-06-05,ACTUAL,20,6.6,42,96,16,0,,90.8,73,222,10.8,80,30,4
+MCBRIDE,2022-06-06,ACTUAL,15.6,8.2,61,293,18,0.2,,87.3,75,228,7.3,82,23,4
+MCBRIDE,2022-06-07,ACTUAL,21.8,2.9,29,135,6,0,,90.8,79,235,6.4,86,21,4
+MCBRIDE,2022-06-08,ACTUAL,17.8,9.8,59,102,14,0.6,,87.3,81,242,6,88,21,4
+MCBRIDE,2022-06-09,ACTUAL,21.4,3.5,31,98,26,0,,90.7,85,249,17.4,92,43,5
+MCBRIDE,2022-06-10,ACTUAL,20.1,5.2,38,76,3,0.2,,90.7,89,256,5.6,95,20,4
+MCBRIDE,2022-06-11,ACTUAL,19.3,2.1,32,69,8,0,,90.8,92,263,7.1,98,25,4
+MCBRIDE,2022-06-12,ACTUAL,17.6,4.1,41,191,6,3.4,,72.2,69,264,0.9,84,4,3
+MCBRIDE,2022-06-13,ACTUAL,17.5,4.4,42,299,19,0,,84.8,72,270,5.4,87,19,4
+MCBRIDE,2022-06-14,ACTUAL,17.3,5.2,45,305,15,1,,84.3,75,277,4.1,89,16,4
+MCBRIDE,2022-06-15,ACTUAL,22.1,6.6,37,278,8,0,,88.9,79,284,5.6,93,20,4
+MCBRIDE,2022-06-16,ACTUAL,14.9,9.8,71,90,10,0.2,,85.6,80,290,3.7,95,15,4
+MCBRIDE,2022-06-17,ACTUAL,22.1,5,33,232,5,1.4,,84.9,84,298,2.7,99,12,4
+MCBRIDE,2022-06-18,ACTUAL,16.4,8.2,58,289,12,0.4,,85.3,86,304,4.1,101,17,4
+MCBRIDE,2022-06-19,ACTUAL,16.7,9.5,62,326,5,0.4,,85.3,88,310,2.8,103,13,4
+MCBRIDE,2022-06-20,ACTUAL,23.1,7.1,36,294,15,0,,89.7,92,318,8.6,107,29,4
+MCBRIDE,2022-06-21,ACTUAL,17.7,8.9,56,98,18,0,,88,94,325,7.8,109,28,4
+MCBRIDE,2022-06-22,ACTUAL,15.2,7,58,316,10,4.8,,62.3,62,319,0.8,83,3,3
+MCBRIDE,2022-06-23,ACTUAL,7.8,6.1,89,275,12,7,,30.5,36,304,0,56,0,2
+MCBRIDE,2022-06-24,ACTUAL,17.6,6.8,49,332,7,2,,58.7,35,311,0.5,55,1,2
+MCBRIDE,2022-06-25,ACTUAL,22.8,7.3,37,44,5,0,,82.2,39,318,1.9,60,6,3
+MCBRIDE,2022-06-26,ACTUAL,25.9,4.3,25,98,6,0,,91.5,44,326,7.1,66,20,4
+MCBRIDE,2022-06-27,ACTUAL,27.4,6.1,26,111,12,0,,93.1,50,335,12.2,73,31,4
+MCBRIDE,2022-06-28,ACTUAL,20,9.6,51,102,30,0,,89.4,53,342,17.6,76,40,5
+MCBRIDE,2022-06-29,ACTUAL,12.5,8.4,76,213,4,17.6,,34.2,24,290,0,39,0,2
+MCBRIDE,2022-06-30,ACTUAL,23.3,9.6,42,72,5,0,,72.1,27,298,0.9,44,2,3
+MCBRIDE,2022-07-01,ACTUAL,20.9,10.4,51,263,18,0,,84.3,30,305,4.8,48,12,3
+MCBRIDE,2022-07-02,ACTUAL,25,12.2,45,129,5,0,,88.1,33,313,4.1,52,12,3
+MCBRIDE,2022-07-03,ACTUAL,25.8,8.2,33,207,5,0,,90.9,37,322,6.4,58,17,4
+MCBRIDE,2022-07-04,ACTUAL,19.2,11.3,60,94,4,1,,82.9,39,329,1.9,61,7,3
+MCBRIDE,2022-07-05,ACTUAL,16.8,11.2,69,83,13,0.8,,81,41,336,2.5,62,8,3
+MCBRIDE,2022-07-06,ACTUAL,23.5,10.2,43,116,16,0,,87.9,44,343,7,67,20,4
+MCBRIDE,2022-07-07,ACTUAL,20.3,13.8,66,88,13,3,,70.9,36,345,1.2,58,4,3
+MCBRIDE,2022-07-08,ACTUAL,18.3,9.4,56,281,7,4.4,,61.6,27,341,0.6,45,1,2
+MCBRIDE,2022-07-09,ACTUAL,17.7,8.6,55,347,4,4.2,,57,20,338,0.4,35,1,2
+MCBRIDE,2022-07-10,ACTUAL,22.1,10.6,48,232,6,0,,79,23,346,1.4,39,3,2
+MCBRIDE,2022-07-11,ACTUAL,25.3,9.5,37,85,17,0,,89.1,27,354,8.9,45,19,4
+MCBRIDE,2022-07-12,ACTUAL,19.5,12.1,62,287,14,0,,87.3,29,361,5.7,48,14,3
+MCBRIDE,2022-07-13,ACTUAL,19.2,10.3,56,250,9,7,,61.6,18,347,0.7,32,1,2
+MCBRIDE,2022-07-14,ACTUAL,20.5,9.7,50,82,9,0,,80.2,21,354,1.8,36,4,2
+MCBRIDE,2022-07-15,ACTUAL,24.7,10.9,42,204,5,0,,87.6,24,362,3.9,41,10,3
+MCBRIDE,2022-07-16,ACTUAL,21.1,13.1,60,295,10,0.2,,87.5,26,370,4.8,45,12,3
+MCBRIDE,2022-07-17,ACTUAL,22.7,9.1,42,285,14,0.2,,89,30,378,7.6,49,18,4
+MCBRIDE,2022-07-18,ACTUAL,17.2,11.3,68,282,7,0,,86.3,31,385,3.6,51,10,3
+MCBRIDE,2022-07-19,ACTUAL,17.6,10.3,62,304,15,1.2,,80.6,33,391,2.6,54,8,3
+MCBRIDE,2022-07-20,ACTUAL,24.8,8.6,36,278,6,0,,88.9,36,400,5,59,15,3
+MCBRIDE,2022-07-21,ACTUAL,25.7,11.4,41,289,12,0,,89.8,40,408,7.5,64,21,4
+MCBRIDE,2022-07-22,ACTUAL,26.3,6.8,29,298,14,0,,92.1,45,416,11.6,71,29,4
+MCBRIDE,2022-07-23,ACTUAL,27.1,10.2,35,298,6,0,,92.2,49,425,8.1,76,24,4
+MCBRIDE,2022-07-24,ACTUAL,21.9,8.7,43,320,13,0,,90.9,52,433,9.1,80,27,4
+MCBRIDE,2022-07-25,ACTUAL,20.9,14.6,67,294,14,0.6,,86.5,54,440,5.2,82,18,4
+MCBRIDE,2022-07-26,ACTUAL,27.3,12.5,40,289,12,0,,89.9,58,449,7.9,87,25,4
+MCBRIDE,2022-07-27,ACTUAL,31.1,15.9,40,72,5,0,,90.9,62,458,6.3,93,22,4
+MCBRIDE,2022-07-28,ACTUAL,30.5,14.9,39,124,9,0,,91.1,67,467,8,99,27,4
+MCBRIDE,2022-07-29,ACTUAL,30.3,13.9,37,2,3,0,,91.4,72,476,6.2,104,23,4
+MCBRIDE,2022-07-30,ACTUAL,29.9,15.2,41,53,4,0,,91.5,76,485,6.3,109,24,4
+MCBRIDE,2022-07-31,ACTUAL,25.5,15.6,54,126,9,0,,89.6,79,494,6.4,113,25,4
+MCBRIDE,2022-08-01,ACTUAL,25.7,13.9,48,326,8,0.8,,87.5,82,501,4.5,116,19,4
+MCBRIDE,2022-08-02,ACTUAL,22,12.6,55,83,4,9,,58.9,46,468,0.5,74,1,3
+MCBRIDE,2022-08-03,ACTUAL,13.9,11.8,87,302,10,3.8,,42.3,34,461,0.1,57,0,2
+MCBRIDE,2022-08-04,ACTUAL,14.7,9.6,71,285,15,7.2,,44.7,20,439,0.2,35,0,2
+MCBRIDE,2022-08-05,ACTUAL,18.3,10,58,308,10,1.6,,65.7,20,445,0.9,37,2,2
+MCBRIDE,2022-08-06,ACTUAL,17.8,11.2,65,337,2,0,,75.6,22,451,0.9,39,2,2
+MCBRIDE,2022-08-07,ACTUAL,26.4,12.4,42,91,6,0,,87.2,25,459,3.9,44,10,3
+MCBRIDE,2022-08-08,ACTUAL,24.7,7.3,33,291,13,0,,90.8,29,466,9,50,20,4
+MCBRIDE,2022-08-09,ACTUAL,26.8,10.8,37,300,4,0,,90.9,32,474,5.9,55,16,3
+MCBRIDE,2022-08-10,ACTUAL,29.6,10.1,30,186,3,0,,92.5,37,483,7.1,62,19,4
+MCBRIDE,2022-08-11,ACTUAL,18.7,17,90,119,6,20,,29.1,14,399,0,26,0,2
+MCBRIDE,2022-08-12,ACTUAL,27.6,13.9,43,96,13,0,,78.4,18,407,1.9,32,4,2
+MCBRIDE,2022-08-13,ACTUAL,20.3,16.2,77,342,4,0.4,,80.6,19,414,1.5,34,3,2
+MCBRIDE,2022-08-14,ACTUAL,20.2,10.9,55,313,9,0,,84.9,21,420,3.2,37,8,2
+MCBRIDE,2022-08-15,ACTUAL,23.3,14.7,58,75,3,0,,86.1,23,427,2.9,40,7,2
+MCBRIDE,2022-08-16,ACTUAL,20.7,14.7,68,91,2,4.8,,56.4,16,419,0.4,29,0,2
+MCBRIDE,2022-08-17,ACTUAL,25.8,15,51,331,7,0,,80.4,19,427,1.7,34,4,2
+MCBRIDE,2022-08-18,ACTUAL,27.7,13.6,42,107,6,0,,88.5,22,435,4.7,40,11,3
+MCBRIDE,2022-08-19,ACTUAL,26.9,15.3,49,92,18,0,,88.7,25,442,8.9,44,19,4
+MCBRIDE,2022-08-20,ACTUAL,23.1,14.2,57,283,14,2.8,,76.8,22,443,1.7,39,4,2
+MCBRIDE,2022-08-21,ACTUAL,26,15.1,51,134,12,0.2,,86.2,25,451,4.5,44,11,3
+MCBRIDE,2022-08-22,ACTUAL,27,15.4,49,253,2,0,,88.1,28,459,3.6,48,10,3
+MCBRIDE,2022-08-23,ACTUAL,22.9,15.1,61,121,12,0.4,,87.6,30,466,5.5,51,14,3
+MCBRIDE,2022-08-24,ACTUAL,26.6,14.4,47,87,6,0,,88.8,33,474,4.8,56,14,3
+MCBRIDE,2022-08-25,ACTUAL,27.6,14.6,45,124,6,0,,89.4,36,482,5.3,61,16,3
+MCBRIDE,2022-08-26,ACTUAL,22,15.2,65,138,14,0,,87.1,38,489,5.7,63,17,3
+MCBRIDE,2022-08-27,ACTUAL,13.4,9.5,77,272,12,9.2,,45.6,20,454,0.2,36,0,2
+MCBRIDE,2022-08-28,ACTUAL,17.3,9,58,132,6,0.6,,68.2,22,460,0.8,39,1,2
+MCBRIDE,2022-08-29,ACTUAL,18.8,11.9,64,85,17,0,,80.1,23,466,2.7,41,7,2
+MCBRIDE,2022-08-30,ACTUAL,27.1,14.2,45,98,15,0,,88.2,26,474,6.9,46,16,3
+MCBRIDE,2022-08-31,ACTUAL,27.4,14.1,44,80,9,0,,89.5,29,482,6.3,51,16,3
+MCBRIDE,2022-09-01,ACTUAL,24.1,10.4,42,290,14,0,,89.5,32,488,8.3,55,20,4
+MCBRIDE,2022-09-02,ACTUAL,27.5,11,36,83,21,0,,91.1,35,495,14.7,60,32,4
+MCBRIDE,2022-09-03,ACTUAL,28,13.1,40,102,11,0,,91.1,38,502,8.6,65,23,4
+MCBRIDE,2022-09-04,ACTUAL,20,9,49,75,16,0,,89.5,40,507,8.8,67,24,4
+MCBRIDE,2022-09-05,ACTUAL,13.1,8.8,75,326,7,25.6,,36.5,16,391,0,28,0,2
+MCBRIDE,2022-09-06,ACTUAL,12.8,7.1,68,110,18,0.4,,62.3,16,395,1.2,30,2,2
+MCBRIDE,2022-09-07,ACTUAL,18.1,7.2,49,304,16,0.2,,80.7,18,400,2.7,33,6,2
+MCBRIDE,2022-09-08,ACTUAL,13.1,8.2,72,301,16,3,,63.4,14,398,1.1,26,2,2
+MCBRIDE,2022-09-09,ACTUAL,17.7,6.2,47,103,4,0,,78.7,16,403,1.2,29,2,2
+MCBRIDE,2022-09-10,ACTUAL,20.4,6.3,40,99,22,0,,87.5,18,408,8.9,33,17,3
+MCBRIDE,2022-09-11,ACTUAL,22,9.2,44,92,14,0,,88.6,21,414,6.9,37,14,3
+MCBRIDE,2022-09-12,ACTUAL,20.3,11,55,93,15,0,,88.2,22,419,7.1,39,15,3
+MCBRIDE,2022-09-13,ACTUAL,14.7,10.2,74,307,3,0,,85.2,23,423,2.6,41,7,2
+MCBRIDE,2022-09-14,ACTUAL,19.8,10.6,55,106,7,0.2,,86.1,25,429,3.5,43,9,3
+MCBRIDE,2022-09-15,ACTUAL,15.6,13.4,87,121,11,9,,38.7,13,399,0,24,0,2
+MCBRIDE,2022-09-16,ACTUAL,8.2,7.1,93,303,14,7.8,,19.5,7,375,0,13,0,1
+MCBRIDE,2022-09-17,ACTUAL,10.4,7.8,84,23,3,8,,17.4,3,353,0,7,0,1
+MCBRIDE,2022-09-18,ACTUAL,14.1,6.3,59,129,14,0,,53.3,5,357,0.5,9,0,1
+MCBRIDE,2022-09-19,ACTUAL,10.8,6.6,75,293,14,2.6,,53.2,3,361,0.5,7,0,1
+MCBRIDE,2022-09-20,ACTUAL,14,3.7,50,106,7,0.8,,71.1,5,365,0.9,9,1,1
+MCBRIDE,2022-09-21,ACTUAL,16.5,3.8,43,126,12,0,,83.3,6,370,3,12,4,2
+MCBRIDE,2022-09-22,ACTUAL,17.7,4.9,43,123,12,0,,87.1,8,374,5.1,16,7,2
+MCBRIDE,2022-09-23,ACTUAL,14.3,7.7,64,294,15,0.4,,86,9,379,5.2,18,8,2
+MCBRIDE,2022-09-24,ACTUAL,17.7,6.5,48,275,10,0.4,,87,11,384,4.6,21,7,2
+MCBRIDE,2022-09-25,ACTUAL,19.9,7.2,44,92,16,0,,88.2,13,389,7.3,24,12,3
+MCBRIDE,2022-09-26,ACTUAL,21,10.2,50,121,21,0,,88.2,15,394,9.4,28,16,3
+MCBRIDE,2022-09-27,ACTUAL,22,10.8,49,89,17,0,,88.3,17,400,7.9,31,15,3
+MCBRIDE,2022-09-28,ACTUAL,19.6,9.5,52,112,17,0,,88.3,19,405,7.7,34,15,3
+MCBRIDE,2022-09-29,ACTUAL,19.9,10.7,55,279,17,0,,88.1,21,411,7.6,37,16,3
+MCBRIDE,2022-09-30,ACTUAL,19.6,10.4,55,291,9,0,,88,22,416,5.2,39,12,3
+MCBRIDE,2022-10-01,ACTUAL,19.5,9.1,51,114,15,0,,88.1,24,420,7,42,16,3
+MCBRIDE,2022-10-02,ACTUAL,21.3,11.4,53,142,4,0,,88.1,26,425,4,44,10,3
+MCBRIDE,2022-10-03,ACTUAL,20.2,10.1,52,129,8,0,,88.2,27,429,5,47,13,3
+MCBRIDE,2022-10-04,ACTUAL,20.2,10.4,53,126,21,0,,88.2,29,433,9.7,49,22,4
+MCBRIDE,2022-10-05,ACTUAL,19.9,11.5,58,269,5,0,,87.8,30,437,3.9,51,11,3
+MCBRIDE,2022-10-06,ACTUAL,18.3,8,51,124,6,0,,87.8,31,441,4.3,53,12,3
+MCBRIDE,2022-10-07,ACTUAL,16.3,7.8,57,134,14,0,,87.3,32,445,5.9,55,16,3
+MCBRIDE,2022-10-08,ACTUAL,16.8,8,56,88,6,0,,87.4,34,449,3.9,57,12,3
+MCBRIDE,2022-10-09,ACTUAL,16.8,7.2,53,114,6,0,,87.4,35,453,4,59,12,3
+MCBRIDE,2022-10-10,ACTUAL,10.2,9.3,94,276,8,2.2,,58.1,31,455,0.5,52,1,2
+MCBRIDE,2022-10-11,ACTUAL,8.5,0.5,57,236,4,0.6,,69.3,31,457,0.7,53,2,3
+MCBRIDE,2022-10-12,ACTUAL,15.3,4.6,49,232,7,0,,80.5,32,461,1.7,55,5,3
+MCBRIDE,2022-10-13,ACTUAL,12.3,5.3,62,149,18,0,80,82.9,33,464,4,56,12,3
+MCBRIDE,2022-10-14,ACTUAL,15.5,9.9,69,243,4,0.8,80,80,34,467,1.4,58,5,3
+MCBRIDE,2022-10-15,ACTUAL,14.9,6,55,137,13,0,80,83.9,35,471,3.5,59,11,3
+MCBRIDE,2022-10-16,ACTUAL,16.5,4.5,45,104,27,0,80,87,37,474,10.8,61,26,4
+MCBRIDE,2022-10-17,ACTUAL,16.6,4.9,46,101,21,0,80,87.4,38,478,8.7,63,23,4
+MCBRIDE,2022-10-18,ACTUAL,15.8,4.2,46,89,17,0,80,87.5,39,482,6.9,65,19,4
+MCBRIDE,2022-10-19,ACTUAL,15.7,5.6,51,108,8,0,80,87.5,41,485,4.5,67,14,3
+MCBRIDE,2022-10-20,ACTUAL,9.7,0.8,54,291,12,3,80,66.9,33,480,1,56,3,3
+MCBRIDE,2022-10-21,ACTUAL,6.8,1.8,70,285,11,0.2,80,74.1,33,481,1.3,57,4,3
+MCBRIDE,2022-10-22,ACTUAL,7,2.7,74,305,11,1.8,80,64.3,31,483,0.9,54,3,3
+MCBRIDE,2022-10-23,MANUAL,5.6,-1.3,61,115,18,0.6,80,73.8,31,485,1.8,54,6,3
+MCBRIDE,2022-10-24,ACTUAL,7.6,0.8,62,82,20,2.8,80,63.2,26,480,1.3,45,4,3
+MCBRIDE,2022-10-25,ACTUAL,6.6,-0.3,61,79,21,4.8,80,52.5,17,465,0.6,31,1,2
+MCBRIDE,2022-10-26,ACTUAL,6.4,-0.5,61,88,14,0.8,80,65.9,17,467,1.1,32,2,2
+MCBRIDE,2022-10-27,ACTUAL,6.2,3,80,89,17,0.2,80,72,18,468,1.6,32,3,2
+MCBRIDE,2022-10-28,ACTUAL,7.1,4.1,81,184,8,4.8,,42.2,11,454,0.1,21,0,2
+MCBRIDE,2022-10-29,ACTUAL,4.5,2.8,89,99,14,4,,30.4,7,443,0,14,0,1
+MCBRIDE,2022-10-30,ACTUAL,6.5,4.3,86,92,14,11.8,,20.8,3,397,0,6,0,1
+MCBRIDE,2022-10-31,ACTUAL,1.2,0.5,95,137,13,1.2,,23.2,3,398,0,6,0,1
+ROCKINGHAM,2022-05-01,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-02,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-03,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-04,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-05,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-06,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-07,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-08,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-09,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-10,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-11,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-12,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-13,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-14,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-15,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-16,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-17,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-18,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-19,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-20,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-21,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-22,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-23,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-24,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-25,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-26,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-27,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-28,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-29,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-30,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-05-31,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-01,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-02,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-03,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-04,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-05,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-06,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-07,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-08,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-09,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-10,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-11,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-12,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-13,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-14,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-15,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-16,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-17,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-18,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-19,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-20,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-21,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-22,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-23,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-24,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-25,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-26,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-27,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-28,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-29,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-06-30,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-01,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-02,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-03,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-04,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-05,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-06,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-07,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-08,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-09,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-10,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-11,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-12,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-13,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-14,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-15,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-16,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-17,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-18,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-19,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-20,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-21,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-22,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-23,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-24,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-25,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-26,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-27,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-28,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-29,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-30,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-07-31,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-01,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-02,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-03,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-04,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-05,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-06,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-07,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-08,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-09,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-10,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-11,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-12,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-13,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-14,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-15,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-16,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-17,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-18,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-19,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-20,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-21,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-22,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-23,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-24,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-25,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-26,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-27,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-28,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-29,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-30,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-08-31,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-01,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-02,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-03,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-04,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-05,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-06,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-07,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-08,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-09,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-10,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-11,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-12,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-13,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-14,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-15,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-16,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-17,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-18,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-19,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-20,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-21,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-22,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-23,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-24,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-25,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-26,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-27,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-28,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-29,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-09-30,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-01,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-02,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-03,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-04,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-05,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-06,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-07,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-08,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-09,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-10,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-11,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-12,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-13,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-14,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-15,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-16,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-17,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-18,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-19,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-20,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-21,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-22,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-23,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-24,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-25,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-26,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-27,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-28,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-29,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-30,[object Object],,,,,,,,,,,,,,
+ROCKINGHAM,2022-10-31,[object Object],,,,,,,,,,,,,,
+VALEMOUNT 2,2022-05-01,ACTUAL,11.4,-3.7,35,97,7,0,,,,,,,,
+VALEMOUNT 2,2022-05-02,ACTUAL,10.3,2.2,57,144,5,0,,,,,,,,
+VALEMOUNT 2,2022-05-03,ACTUAL,14.5,-3,30,180,9,0,,,,,,,,
+VALEMOUNT 2,2022-05-04,ACTUAL,8.3,1,60,151,8,0.6,,,,,,,,
+VALEMOUNT 2,2022-05-05,ACTUAL,10.3,4.3,66,43,4,0,,,,,,,,
+VALEMOUNT 2,2022-05-06,ACTUAL,11.2,-1,43,155,11,3.2,,,,,,,,
+VALEMOUNT 2,2022-05-07,ACTUAL,7.4,-6.5,37,131,9,0,,,,,,,,
+VALEMOUNT 2,2022-05-08,ACTUAL,7.2,-3.4,47,343,5,0,,,,,,,,
+VALEMOUNT 2,2022-05-09,ACTUAL,5.3,0.3,70,340,4,1.4,,,,,,,,
+VALEMOUNT 2,2022-05-10,ACTUAL,6.9,3,76,143,7,4,,,,,,,,
+VALEMOUNT 2,2022-05-11,ACTUAL,8.3,-3,45,102,10,0.2,,,,,,,,
+VALEMOUNT 2,2022-05-12,ACTUAL,11.3,-6.7,28,173,5,0,,,,,,,,
+VALEMOUNT 2,2022-05-13,ACTUAL,7.2,-0.7,57,141,12,0,,,,,,,,
+VALEMOUNT 2,2022-05-14,ACTUAL,6.4,-4.4,46,136,10,0,,,,,,,,
+VALEMOUNT 2,2022-05-15,ACTUAL,8.5,1.5,61,79,5,0.2,,,,,,,,
+VALEMOUNT 2,2022-05-16,ACTUAL,11.8,4.1,59,146,12,0.8,,,,,,,,
+VALEMOUNT 2,2022-05-17,ACTUAL,2.4,2,97,97,6,11,,,,,,,,
+VALEMOUNT 2,2022-05-18,ACTUAL,1.3,0.9,97,182,3,6,,,,,,,,
+VALEMOUNT 2,2022-05-19,ACTUAL,9.1,2,61,347,11,8.6,,,,,,,,
+VALEMOUNT 2,2022-05-20,ACTUAL,6.5,0,63,114,11,0,,,,,,,,
+VALEMOUNT 2,2022-05-21,ACTUAL,11.8,-5.4,30,65,7,0,,,,,,,,
+VALEMOUNT 2,2022-05-22,ACTUAL,12.1,-8.5,23,124,5,0,,,,,,,,
+VALEMOUNT 2,2022-05-23,ACTUAL,15.8,-4.3,25,226,10,0,,,,,,,,
+VALEMOUNT 2,2022-05-24,ACTUAL,9.3,5.1,75,95,11,1.4,,,,,,,,
+VALEMOUNT 2,2022-05-25,ACTUAL,10.8,2.1,55,156,8,0.2,,,,,,,,
+VALEMOUNT 2,2022-05-26,ACTUAL,13.1,5.6,60,54,4,3.8,,,,,,,,
+VALEMOUNT 2,2022-05-27,ACTUAL,9.1,6.4,83,156,5,4.8,,,,,,,,
+VALEMOUNT 2,2022-05-28,ACTUAL,11,5.2,67,118,10,4.4,,,,,,,,
+VALEMOUNT 2,2022-05-29,ACTUAL,12.1,4.9,61,341,5,0,,,,,,,,
+VALEMOUNT 2,2022-05-30,ACTUAL,14.7,-1.1,34,17,5,0,,,,,,,,
+VALEMOUNT 2,2022-05-31,ACTUAL,17,1.7,36,199,5,0,,,,,,,,
+VALEMOUNT 2,2022-06-01,ACTUAL,16.2,2.8,41,94,5,0,,85,6,15,2.6,6,2,
+VALEMOUNT 2,2022-06-02,ACTUAL,18.4,1.7,33,126,7,0,,89,9,22,5.1,9,5,2
+VALEMOUNT 2,2022-06-03,ACTUAL,19.2,2.4,33,113,6,0,,90.1,13,29,6,13,7,2
+VALEMOUNT 2,2022-06-04,ACTUAL,16.4,1.2,36,106,4,0,,90.1,16,35,5.2,16,7,2
+VALEMOUNT 2,2022-06-05,ACTUAL,14.7,7.6,62,41,3,0,,87.4,18,41,3.5,18,5,2
+VALEMOUNT 2,2022-06-06,ACTUAL,15.4,8.5,63,21,4,0.2,,86.4,19,47,3.2,19,5,2
+VALEMOUNT 2,2022-06-07,ACTUAL,17.7,3.5,39,335,5,0.8,,86.1,22,54,3.2,22,6,2
+VALEMOUNT 2,2022-06-08,ACTUAL,14.2,7.1,62,141,12,0.8,,82.5,24,60,2.8,24,5,2
+VALEMOUNT 2,2022-06-09,ACTUAL,17.3,-0.1,31,132,9,0,,88.5,27,66,5.4,27,10,3
+VALEMOUNT 2,2022-06-10,ACTUAL,15.1,5.6,53,126,6,2.4,,72,25,72,0.9,27,1,2
+VALEMOUNT 2,2022-06-11,ACTUAL,18.6,0.6,30,236,7,0.2,,86,28,79,3.5,30,7,2
+VALEMOUNT 2,2022-06-12,ACTUAL,16,1.6,38,7,4,0,,88,31,85,3.9,33,9,3
+VALEMOUNT 2,2022-06-13,ACTUAL,19.7,3.7,35,12,7,0,,89.6,35,92,5.7,36,12,3
+VALEMOUNT 2,2022-06-14,ACTUAL,14.8,4.8,51,28,7,0.6,,87.1,37,98,3.9,38,9,3
+VALEMOUNT 2,2022-06-15,ACTUAL,15.8,4.5,47,53,3,0,,87.2,39,105,3.3,40,8,3
+VALEMOUNT 2,2022-06-16,ACTUAL,10.1,8.8,92,163,4,2.2,,58.4,34,110,0.5,39,1,2
+VALEMOUNT 2,2022-06-17,ACTUAL,18.6,2.3,34,358,5,3.4,,66.8,29,113,0.7,35,1,2
+VALEMOUNT 2,2022-06-18,MANUAL,16.7,7.1,53,137,10,0,,80,31,119,1.9,38,5,2
+VALEMOUNT 2,2022-06-19,ACTUAL,12.2,9.2,82,228,3,0.8,,75.8,32,125,0.9,39,2,2
+VALEMOUNT 2,2022-06-20,ACTUAL,14.3,12.2,87,268,4,2.2,,56.4,28,131,0.4,37,1,2
+VALEMOUNT 2,2022-06-21,ACTUAL,14.9,8.2,64,103,6,0.2,,71.5,30,137,0.9,39,2,2
+VALEMOUNT 2,2022-06-22,ACTUAL,10.6,8.3,86,329,5,3.8,,43.8,22,137,0.1,31,0,2
+VALEMOUNT 2,2022-06-23,ACTUAL,4.8,4.5,98,18,5,10.2,,10.8,11,122,0,17,0,1
+VALEMOUNT 2,2022-06-24,ACTUAL,14.2,4.8,53,73,4,6.8,,36.1,7,116,0,13,0,1
+VALEMOUNT 2,2022-06-25,ACTUAL,21,3.1,31,69,6,0,,74.5,11,123,1,19,1,1
+VALEMOUNT 2,2022-06-26,ACTUAL,24.2,3.4,26,66,5,0,,89.1,16,131,4.8,25,9,3
+VALEMOUNT 2,2022-06-27,ACTUAL,26.4,3.6,23,84,7,0,,93.1,22,139,9.4,31,17,3
+VALEMOUNT 2,2022-06-28,ACTUAL,13,10.5,85,161,8,0,,84,23,145,2.7,32,6,2
+VALEMOUNT 2,2022-06-29,ACTUAL,9.9,9.1,95,352,5,11.2,,23.2,11,128,0,18,0,1
+VALEMOUNT 2,2022-06-30,ACTUAL,21.2,6.2,38,86,6,0.8,,66.3,14,135,0.8,23,1,2
+VALEMOUNT 2,2022-07-01,ACTUAL,25.2,5.8,29,80,8,0,,87.6,19,143,4.5,28,9,3
+VALEMOUNT 2,2022-07-02,ACTUAL,21.6,10.1,48,333,5,0.4,,87.9,22,151,4.2,32,9,3
+VALEMOUNT 2,2022-07-03,ACTUAL,23.5,7.5,36,86,6,0,,90,25,159,5.9,36,13,3
+VALEMOUNT 2,2022-07-04,ACTUAL,15.2,12.7,85,334,6,2.2,,64.6,22,165,0.7,33,1,2
+VALEMOUNT 2,2022-07-05,ACTUAL,15.4,9.4,67,140,8,11.2,,44.6,12,149,0.1,20,0,1
+VALEMOUNT 2,2022-07-06,ACTUAL,20.6,7.5,43,74,5,0,,74.3,15,156,1,24,1,2
+VALEMOUNT 2,2022-07-07,ACTUAL,17.7,10.2,61,114,8,0.4,,81.3,17,163,1.9,26,4,2
+VALEMOUNT 2,2022-07-08,ACTUAL,17.5,8.7,56,139,10,3.6,,67.4,13,165,1,22,1,2
+VALEMOUNT 2,2022-07-09,ACTUAL,14.8,8.8,67,124,6,1.6,,67.1,14,171,0.8,23,1,2
+VALEMOUNT 2,2022-07-10,ACTUAL,18.9,4.6,39,175,14,1.4,,79.9,17,178,2.2,27,4,2
+VALEMOUNT 2,2022-07-11,ACTUAL,20.1,8.4,47,149,7,0,,85.8,19,186,3.4,31,7,2
+VALEMOUNT 2,2022-07-12,ACTUAL,27.9,4.2,22,185,11,0,,93.3,25,194,12,37,22,3
+VALEMOUNT 2,2022-07-13,ACTUAL,18.6,7.7,49,23,4,4.2,,66.6,19,194,0.7,31,1,2
+VALEMOUNT 2,2022-07-14,ACTUAL,19.6,6.6,43,118,9,0,,82.8,22,202,2.5,34,6,2
+VALEMOUNT 2,2022-07-15,ACTUAL,23.7,2.4,25,110,8,0,,91.2,26,210,7.8,40,16,3
+VALEMOUNT 2,2022-07-16,ACTUAL,18.3,8.9,54,175,6,4.4,,65.7,20,209,0.7,32,1,2
+VALEMOUNT 2,2022-07-17,ACTUAL,22.3,9.8,45,47,7,1.2,,79.3,23,216,1.5,36,3,2
+VALEMOUNT 2,2022-07-18,ACTUAL,15.5,12.1,80,335,9,0.6,,79.1,23,223,1.7,37,4,2
+VALEMOUNT 2,2022-07-19,ACTUAL,21.9,9.4,45,121,6,0.2,,86.3,26,231,3.5,41,9,3
+VALEMOUNT 2,2022-07-20,ACTUAL,23,4.4,30,265,6,0,,90.6,30,238,6.4,46,15,3
+VALEMOUNT 2,2022-07-21,ACTUAL,26.1,5.6,27,167,7,0,,92.5,35,247,8.8,52,21,4
+VALEMOUNT 2,2022-07-22,ACTUAL,26.3,8.2,32,350,8,0,,92.5,39,255,9,57,22,4
+VALEMOUNT 2,2022-07-23,ACTUAL,25.7,7.7,32,325,5,0,,92.6,44,264,7.9,62,21,4
+VALEMOUNT 2,2022-07-24,ACTUAL,20.6,10.4,52,339,5,0,,89.8,46,271,5.3,65,16,3
+VALEMOUNT 2,2022-07-25,ACTUAL,21.9,11.9,53,353,6,0,,89,49,279,4.9,68,16,3
+VALEMOUNT 2,2022-07-26,ACTUAL,27.3,10.9,36,56,6,0,,90.8,53,287,6.4,72,20,4
+VALEMOUNT 2,2022-07-27,ACTUAL,30.5,11.4,31,74,6,0,,92.5,58,296,8.3,78,25,4
+VALEMOUNT 2,2022-07-28,ACTUAL,31.8,11.5,29,91,8,0,,93.3,63,306,10.2,84,29,4
+VALEMOUNT 2,2022-07-29,ACTUAL,25.4,13,46,191,4,0,,91.2,67,314,6.2,87,21,4
+VALEMOUNT 2,2022-07-30,ACTUAL,28.6,9.2,30,105,8,1,,90.8,72,323,7.2,92,24,4
+VALEMOUNT 2,2022-07-31,ACTUAL,25.1,12.3,45,346,3,0,,90.7,75,331,5.5,96,20,4
+VALEMOUNT 2,2022-08-01,ACTUAL,25.5,14,49,91,7,0.4,,90.2,78,339,6.1,99,22,4
+VALEMOUNT 2,2022-08-02,ACTUAL,18.9,10.5,58,310,3,5.8,,57.6,50,329,0.4,72,1,2
+VALEMOUNT 2,2022-08-03,ACTUAL,14.5,12.2,86,153,7,1,,60.6,50,335,0.6,73,2,3
+VALEMOUNT 2,2022-08-04,ACTUAL,9.6,9,96,152,5,16.8,,13.8,22,286,0,37,0,2
+VALEMOUNT 2,2022-08-05,ACTUAL,14.9,10.8,76,75,5,10,,26.5,12,264,0,21,0,2
+VALEMOUNT 2,2022-08-06,ACTUAL,18.1,8.1,52,133,4,0,,59.3,14,270,0.5,24,0,2
+VALEMOUNT 2,2022-08-07,ACTUAL,25.4,6.5,30,203,10,0,,86.5,17,278,4.3,30,9,3
+VALEMOUNT 2,2022-08-08,ACTUAL,25.3,8.2,34,32,6,0,,90.4,21,286,6,35,13,3
+VALEMOUNT 2,2022-08-09,ACTUAL,25.9,6.9,30,77,6,0,,91.9,25,293,7.4,41,16,3
+VALEMOUNT 2,2022-08-10,ACTUAL,29.3,10.3,31,349,4,0,,92.4,29,302,7.4,47,17,4
+VALEMOUNT 2,2022-08-11,ACTUAL,22.3,15.3,64,100,7,1,,83.7,31,309,2.5,49,7,3
+VALEMOUNT 2,2022-08-12,ACTUAL,27.8,11.7,37,92,5,0,,89.8,35,317,5.3,54,15,3
+VALEMOUNT 2,2022-08-13,ACTUAL,21.8,13.8,60,337,4,0.8,,84.8,37,323,2.5,57,8,3
+VALEMOUNT 2,2022-08-14,ACTUAL,22.7,11.5,49,342,5,2,,78.5,35,331,1.3,56,4,3
+VALEMOUNT 2,2022-08-15,ACTUAL,23.8,10.8,44,116,6,0,,86.7,38,338,3.7,60,11,3
+VALEMOUNT 2,2022-08-16,ACTUAL,19.6,13.4,67,12,3,1.8,,73.3,37,344,0.8,58,2,3
+VALEMOUNT 2,2022-08-17,ACTUAL,25.9,13.1,45,54,4,0,,85.6,40,352,2.8,62,10,3
+VALEMOUNT 2,2022-08-18,ACTUAL,27.7,10.8,35,121,6,0,,90.6,44,360,6.2,67,18,4
+VALEMOUNT 2,2022-08-19,ACTUAL,24.9,12.8,47,138,8,0,,90.3,47,368,6.7,71,20,4
+VALEMOUNT 2,2022-08-20,ACTUAL,25.6,15.4,53,64,6,1.4,,83.4,49,375,2.2,74,9,4
+VALEMOUNT 2,2022-08-21,ACTUAL,24.9,12.8,47,96,6,14.6,,63.5,25,331,0.7,42,1,2
+VALEMOUNT 2,2022-08-22,ACTUAL,27.1,15.8,50,96,7,0,,83.3,28,339,2.4,47,7,3
+VALEMOUNT 2,2022-08-23,ACTUAL,19.7,15,74,4,4,0,,83.3,29,346,2,48,6,3
+VALEMOUNT 2,2022-08-24,ACTUAL,25.5,13,46,108,5,0.2,,87.8,32,354,4.1,52,12,3
+VALEMOUNT 2,2022-08-25,ACTUAL,27.2,13.5,43,109,5,0,,89.5,36,361,5.1,57,15,3
+VALEMOUNT 2,2022-08-26,ACTUAL,21.1,11.5,54,117,10,0,,88.7,38,368,5.9,60,17,3
+VALEMOUNT 2,2022-08-27,ACTUAL,10.4,9,91,196,4,23.2,,21.6,14,293,0,25,0,2
+VALEMOUNT 2,2022-08-28,ACTUAL,13.4,7,65,135,12,1.2,,49.6,15,298,0.3,27,0,2
+VALEMOUNT 2,2022-08-29,ACTUAL,16.8,10.3,65,85,7,0.2,,69,16,304,0.9,29,1,2
+VALEMOUNT 2,2022-08-30,ACTUAL,25.9,12.3,43,134,8,0,,85.7,20,312,3.5,34,8,2
+VALEMOUNT 2,2022-08-31,ACTUAL,27.8,10.9,35,109,4,0,,90.5,24,320,5.7,40,13,3
+VALEMOUNT 2,2022-09-01,ACTUAL,25.1,8.5,35,347,4,0.2,,90.9,27,326,6.1,44,14,3
+VALEMOUNT 2,2022-09-02,ACTUAL,28.6,11.1,34,41,4,0,,91.7,30,333,6.6,49,16,3
+VALEMOUNT 2,2022-09-03,ACTUAL,27,11,37,92,5,0,,91.7,33,340,7.2,53,18,4
+VALEMOUNT 2,2022-09-04,ACTUAL,16.5,8.8,60,151,9,0,,88,34,344,5,55,14,3
+VALEMOUNT 2,2022-09-05,ACTUAL,16.3,9.8,65,334,5,3.4,,63.1,27,342,0.6,45,1,2
+VALEMOUNT 2,2022-09-06,ACTUAL,13,6,62,139,4,0.2,,73.8,28,346,0.9,46,2,3
+VALEMOUNT 2,2022-09-07,ACTUAL,20.4,-2.7,21,268,7,0,,89,31,351,5.3,51,14,3
+VALEMOUNT 2,2022-09-08,ACTUAL,12.6,6.9,68,265,3,0.2,,86.2,32,355,2.9,52,9,3
+VALEMOUNT 2,2022-09-09,ACTUAL,16.9,3.5,41,75,4,0.6,,87,33,360,3.4,54,10,3
+VALEMOUNT 2,2022-09-10,ACTUAL,19.3,4.1,37,138,9,0,,89,36,365,5.7,57,16,3
+VALEMOUNT 2,2022-09-11,ACTUAL,19.5,6.2,42,158,7,0,,89.1,38,370,5.5,60,16,3
+VALEMOUNT 2,2022-09-12,ACTUAL,18,7.4,50,101,6,0,,88.8,40,375,4.7,63,14,3
+VALEMOUNT 2,2022-09-13,ACTUAL,20.2,9.2,49,0,7,0,,88.8,42,381,5,65,15,3
+VALEMOUNT 2,2022-09-14,ACTUAL,17.9,8.8,55,84,3,0,,88.1,43,385,3.9,67,13,3
+VALEMOUNT 2,2022-09-15,ACTUAL,14.1,11.3,83,52,3,0.4,,83.5,44,390,2,68,8,3
+VALEMOUNT 2,2022-09-16,ACTUAL,9.9,9.1,95,346,3,10.2,,23.4,22,357,0,38,0,2
+VALEMOUNT 2,2022-09-17,ACTUAL,9.3,5.7,78,244,3,16.4,,18.8,10,305,0,18,0,1
+VALEMOUNT 2,2022-09-18,ACTUAL,10.4,4.2,65,99,7,0,,43.8,11,309,0.1,19,0,1
+VALEMOUNT 2,2022-09-19,ACTUAL,10.5,7.7,83,104,5,15,,22.1,5,268,0,9,0,1
+VALEMOUNT 2,2022-09-20,ACTUAL,12.5,1.8,48,69,5,0.2,,52.9,6,271,0.3,12,0,1
+VALEMOUNT 2,2022-09-21,ACTUAL,15.9,3.9,45,32,4,0,,73.6,8,276,0.9,15,1,1
+VALEMOUNT 2,2022-09-22,ACTUAL,16.7,4.7,45,100,7,0,,83.3,10,281,2.4,18,3,2
+VALEMOUNT 2,2022-09-23,ACTUAL,11.9,6,67,171,7,0,,83.3,10,285,2.3,19,4,2
+VALEMOUNT 2,2022-09-24,ACTUAL,15,7.9,62,133,7,1.4,,76.2,11,289,1.2,21,1,2
+VALEMOUNT 2,2022-09-25,ACTUAL,18.5,8.8,53,357,4,0,,83,13,294,2,24,3,2
+VALEMOUNT 2,2022-09-26,ACTUAL,19,10.1,56,94,5,0,,85.1,15,299,2.7,26,5,2
+VALEMOUNT 2,2022-09-27,ACTUAL,21.5,10,48,123,4,0,,87.2,17,305,3.5,29,7,2
+VALEMOUNT 2,2022-09-28,ACTUAL,18.6,9.4,55,106,5,0,,87.3,18,310,3.6,32,8,2
+VALEMOUNT 2,2022-09-29,ACTUAL,20.4,10.6,53,358,4,0,,87.3,20,315,3.6,35,8,3
+VALEMOUNT 2,2022-09-30,ACTUAL,18.7,11.1,61,81,5,0,,87,22,320,3.6,37,8,3
+VALEMOUNT 2,2022-10-01,ACTUAL,17.1,8,55,105,7,0,,87,23,324,3.9,39,9,3
+VALEMOUNT 2,2022-10-02,ACTUAL,21.4,8.6,44,307,3,0,,88.2,25,329,3.9,42,10,3
+VALEMOUNT 2,2022-10-03,ACTUAL,19,9.2,53,110,6,0,,88.3,26,333,4.6,44,11,3
+VALEMOUNT 2,2022-10-04,ACTUAL,19.2,10.3,56,36,3,0,,87.9,27,337,3.7,46,10,3
+VALEMOUNT 2,2022-10-05,ACTUAL,19.1,6.9,45,130,6,0,,88.1,29,341,4.5,48,12,3
+VALEMOUNT 2,2022-10-06,ACTUAL,18,9.2,56,100,4,0,,87.8,30,345,3.7,50,10,3
+VALEMOUNT 2,2022-10-07,ACTUAL,17.3,7.9,54,23,3,0,,87.8,32,349,3.6,52,10,3
+VALEMOUNT 2,2022-10-08,ACTUAL,16.8,7.8,55,103,5,0,,87.6,33,352,4,53,12,3
+VALEMOUNT 2,2022-10-09,ACTUAL,15.7,6.5,54,124,7,0,,87.6,34,356,4.2,55,12,3
+VALEMOUNT 2,2022-10-10,ACTUAL,13.8,7.2,64,144,8,1,,80.6,35,359,1.8,56,6,3
+VALEMOUNT 2,2022-10-11,ACTUAL,6.6,0.7,66,330,4,1.4,,71,35,361,0.8,57,2,3
+VALEMOUNT 2,2022-10-12,ACTUAL,12.2,2.9,53,118,4,0.2,,79.2,36,364,1.3,58,4,3
+VALEMOUNT 2,2022-10-13,ACTUAL,10.3,3.4,62,106,7,0,,81.8,37,367,2,59,7,3
+VALEMOUNT 2,2022-10-14,ACTUAL,12.3,7.3,71,123,3,0.2,,82.1,37,369,1.7,60,6,3
+VALEMOUNT 2,2022-10-15,ACTUAL,13.3,5.3,58,102,6,0,,83.8,38,373,2.4,61,8,3
+VALEMOUNT 2,2022-10-16,ACTUAL,16.3,4.9,47,287,3,0,,86.1,40,376,2.9,63,10,3
+VALEMOUNT 2,2022-10-17,ACTUAL,15.8,1.4,38,124,4,0,,88,41,380,4,65,13,3
+VALEMOUNT 2,2022-10-18,ACTUAL,15,3.4,46,115,6,0,,88,43,383,4.3,67,14,3
+VALEMOUNT 2,2022-10-19,ACTUAL,16.1,3.8,44,99,11,0,,88.1,44,387,5.8,69,18,4
+VALEMOUNT 2,2022-10-20,ACTUAL,6.1,3.4,83,226,3,3,,53.4,35,382,0.3,57,1,2
+VALEMOUNT 2,2022-10-21,ACTUAL,3.4,0.1,79,84,6,0,,61.2,35,384,0.6,57,1,3
+VALEMOUNT 2,2022-10-22,ACTUAL,4.3,-0.5,71,40,5,0.2,,68.6,35,385,0.8,58,2,3
+VALEMOUNT 2,2022-10-23,ACTUAL,4,-2.6,62,124,7,0,,75,36,387,1.1,58,4,3
+VALEMOUNT 2,2022-10-24,ACTUAL,2.5,-0.6,80,143,9,1.4,,65.2,36,388,0.8,58,2,3
+VALEMOUNT 2,2022-10-25,ACTUAL,1.8,-2.3,74,152,8,1.4,,61.1,36,389,0.6,58,2,3
+VALEMOUNT 2,2022-10-26,ACTUAL,2.9,-4.3,59,147,9,0.8,,68.4,36,390,1,59,3,3
+VALEMOUNT 2,2022-10-27,ACTUAL,2.5,1,90,165,11,2,,52.2,33,391,0.4,54,1,2
+VALEMOUNT 2,2022-10-28,ACTUAL,4.6,-1.2,66,161,8,14.2,,30.9,14,341,0,25,0,2
+VALEMOUNT 2,2022-10-29,ACTUAL,2.5,1.5,93,171,7,4.6,,18.4,9,331,0,16,0,1
+VALEMOUNT 2,2022-10-30,ACTUAL,3.5,2,90,160,9,4.2,,17.7,5,322,0,10,0,1
+VALEMOUNT 2,2022-10-31,ACTUAL,0.2,-0.7,94,350,2,3.6,,12.5,3,315,0,6,0,1
+VALEMOUNT AIRPORT,2022-05-01,ACTUAL,15.7,-2.4,29,117,9,0,100,91.1,31,61,7.8,31,14,3
+VALEMOUNT AIRPORT,2022-05-02,ACTUAL,14.8,2.3,43,122,14,0,100,89.8,34,66,8.4,34,16,3
+VALEMOUNT AIRPORT,2022-05-03,ACTUAL,17.8,-3.1,24,161,14,0,,91.7,38,72,11,37,21,3
+VALEMOUNT AIRPORT,2022-05-04,ACTUAL,12.3,1.9,49,150,21,1.8,,79.1,37,76,3,37,7,2
+VALEMOUNT AIRPORT,2022-05-05,ACTUAL,12.5,4.8,59,132,15,0,100,82.8,38,81,3.4,38,8,3
+VALEMOUNT AIRPORT,2022-05-06,ACTUAL,14.7,-0.7,35,130,22,3.8,100,73.8,30,82,2.2,31,5,2
+VALEMOUNT AIRPORT,2022-05-07,ACTUAL,10.4,-0.5,47,290,6,0,100,81.1,32,86,1.7,33,4,2
+VALEMOUNT AIRPORT,2022-05-08,ACTUAL,10.9,-3,38,307,7,0,100,85.5,34,90,3.2,35,7,2
+VALEMOUNT AIRPORT,2022-05-09,ACTUAL,9.6,-1.8,45,349,8,0.4,100,86.2,35,94,3.8,37,9,3
+VALEMOUNT AIRPORT,2022-05-10,ACTUAL,11.7,4.5,61,166,10,2.6,100,67.8,30,99,1,34,2,2
+VALEMOUNT AIRPORT,2022-05-11,ACTUAL,12.2,-0.4,42,105,16,0.2,100,81.3,33,104,2.9,36,7,2
+VALEMOUNT AIRPORT,2022-05-12,ACTUAL,14.6,-5.3,25,181,13,0,100,88.8,36,109,6.9,39,15,3
+VALEMOUNT AIRPORT,2022-05-13,ACTUAL,11.6,0,45,135,17,0,100,88.6,37,113,8.2,41,17,3
+VALEMOUNT AIRPORT,2022-05-14,ACTUAL,10.8,-3.4,37,163,13,0.6,100,87.5,39,117,5.7,43,14,3
+VALEMOUNT AIRPORT,2022-05-15,MANUAL,12.4,1.4,47,126,13,0,100,87.6,41,122,5.8,45,14,3
+VALEMOUNT AIRPORT,2022-05-16,ACTUAL,14.5,4.8,52,125,17,0.6,100,85.9,43,127,5.6,47,14,3
+VALEMOUNT AIRPORT,2022-05-17,ACTUAL,6.9,4.9,87,198,3,11.4,100,27.8,21,109,0,29,0,2
+VALEMOUNT AIRPORT,2022-05-18,MANUAL,4.7,3.8,94,166,12,7.2,0,14.4,12,100,0,18,0,1
+VALEMOUNT AIRPORT,2022-05-19,MANUAL,12.8,0.5,43,325,20,11.8,0,48.6,8,84,0.4,12,0,1
+VALEMOUNT AIRPORT,2022-05-20,MANUAL,6.6,2.7,76,147,14,1,0,58.3,8,88,0.7,13,1,1
+VALEMOUNT AIRPORT,2022-05-21,ACTUAL,14.6,-6.4,23,202,11,0.4,0,82,11,93,2.5,17,4,2
+VALEMOUNT AIRPORT,2022-05-22,ACTUAL,19.5,-5.5,18,186,9,0,0,91.4,16,99,8.3,22,13,3
+VALEMOUNT AIRPORT,2022-05-23,ACTUAL,20.3,-4.8,18,198,17,0,0,93.6,20,105,16.6,27,24,3
+VALEMOUNT AIRPORT,2022-05-24,ACTUAL,14.3,4.3,51,116,16,0,,89.4,22,110,8.6,30,15,3
+VALEMOUNT AIRPORT,2022-05-25,ACTUAL,14.7,2.8,45,128,16,0,,89.1,25,115,8.3,32,15,3
+VALEMOUNT AIRPORT,2022-05-26,ACTUAL,15.5,4.8,49,134,15,3.4,,71.6,20,116,1.4,28,3,2
+VALEMOUNT AIRPORT,2022-05-27,ACTUAL,11.8,8.5,80,163,15,6.6,,44.3,12,109,0.2,19,0,1
+VALEMOUNT AIRPORT,2022-05-28,ACTUAL,13.5,3.8,52,109,12,2.2,,61.1,12,114,0.8,19,1,1
+VALEMOUNT AIRPORT,2022-05-29,ACTUAL,16,1.6,38,328,12,0.8,,79.3,14,120,2,22,3,2
+VALEMOUNT AIRPORT,2022-05-30,ACTUAL,18.6,-0.9,27,87,10,0,,88.8,18,125,5.8,27,11,3
+VALEMOUNT AIRPORT,2022-05-31,MANUAL,21.5,0,24,170,7,0,,92,23,132,8.1,32,15,3
+VALEMOUNT AIRPORT,2022-06-01,ACTUAL,18.4,4.1,39,110,8,0,,91.1,26,138,7.4,35,15,3
+VALEMOUNT AIRPORT,2022-06-02,ACTUAL,24.6,0.8,21,115,15,0,,93.6,31,146,15.3,41,27,3
+VALEMOUNT AIRPORT,2022-06-03,ACTUAL,23.6,2.9,26,124,8,0,,93.6,36,154,10.6,45,22,4
+VALEMOUNT AIRPORT,2022-06-04,ACTUAL,21.7,2.8,29,142,14,0,,93.2,40,161,13.4,50,27,4
+VALEMOUNT AIRPORT,2022-06-05,ACTUAL,16.4,7.9,57,136,11,0,,88.7,42,167,6.2,52,16,3
+VALEMOUNT AIRPORT,2022-06-06,ACTUAL,15.9,11.3,74,357,5,3.2,,61,34,170,0.6,45,1,2
+VALEMOUNT AIRPORT,2022-06-07,ACTUAL,22.3,5.1,33,172,9,0,,84.4,38,177,3,49,9,3
+VALEMOUNT AIRPORT,2022-06-08,ACTUAL,16.8,6.3,50,125,12,0.6,,85.6,40,183,4.2,52,12,3
+VALEMOUNT AIRPORT,2022-06-09,ACTUAL,20.1,1.9,30,123,17,0,,90.2,44,191,10.7,56,25,4
+VALEMOUNT AIRPORT,2022-06-10,ACTUAL,20.1,6.7,42,123,18,0.6,,88.6,47,198,8.7,59,22,4
+VALEMOUNT AIRPORT,2022-06-11,ACTUAL,21.9,0.9,25,148,17,0,,92,52,205,13.3,64,31,4
+VALEMOUNT AIRPORT,2022-06-12,ACTUAL,19.1,2.3,33,14,9,0.2,,91.9,56,212,8.9,67,24,4
+VALEMOUNT AIRPORT,2022-06-13,ACTUAL,19.2,4.1,37,327,17,0,,91.3,59,219,12.1,70,30,4
+VALEMOUNT AIRPORT,2022-06-14,ACTUAL,16.9,3.8,42,328,24,0,,90.2,62,225,14.9,73,35,5
+VALEMOUNT AIRPORT,2022-06-15,ACTUAL,18.2,5,42,6,5,0,,90.1,65,232,5.5,76,18,4
+VALEMOUNT AIRPORT,2022-06-16,ACTUAL,12.8,10.8,88,137,9,0.6,,81.8,65,237,2.1,77,9,4
+VALEMOUNT AIRPORT,2022-06-17,ACTUAL,21.6,0.7,25,359,7,2.8,,80.2,57,241,1.7,71,6,3
+VALEMOUNT AIRPORT,2022-06-18,ACTUAL,18.6,6.4,45,124,17,0,,86.4,59,248,5.9,74,19,4
+VALEMOUNT AIRPORT,2022-06-19,ACTUAL,21,6.1,38,195,10,0,,89.1,63,255,6.3,78,20,4
+VALEMOUNT AIRPORT,2022-06-20,ACTUAL,22,5.3,34,269,12,0.4,,90.4,67,262,8.1,82,25,4
+VALEMOUNT AIRPORT,2022-06-21,ACTUAL,17.5,9,57,146,15,0,,88,69,269,7,84,23,4
+VALEMOUNT AIRPORT,2022-06-22,ACTUAL,13.5,8.6,72,153,4,2.4,,65.4,59,275,0.7,77,2,3
+VALEMOUNT AIRPORT,2022-06-23,ACTUAL,6.7,5.6,93,329,11,9.4,,23.6,31,254,0,48,0,2
+VALEMOUNT AIRPORT,2022-06-24,ACTUAL,17.2,3.4,40,321,10,4.4,,55.5,24,252,0.5,39,1,2
+VALEMOUNT AIRPORT,2022-06-25,ACTUAL,22.6,1.5,25,91,8,0,,84.8,29,260,3.1,45,8,3
+VALEMOUNT AIRPORT,2022-06-26,ACTUAL,26.4,1.6,20,323,7,0,,93.1,34,268,9.7,52,22,4
+VALEMOUNT AIRPORT,2022-06-27,ACTUAL,28.8,4.3,21,162,9,0,,94.4,41,276,12.4,59,28,4
+VALEMOUNT AIRPORT,2022-06-28,ACTUAL,15.2,12.3,83,118,16,0,,84.2,41,283,4.3,60,13,3
+VALEMOUNT AIRPORT,2022-06-29,ACTUAL,11.7,9.6,87,329,9,17.4,,29.5,18,239,0,30,0,2
+VALEMOUNT AIRPORT,2022-06-30,ACTUAL,24.1,8,36,191,7,0.4,,73.9,22,246,1,36,2,2
+VALEMOUNT AIRPORT,2022-07-01,ACTUAL,23.4,8.2,38,326,18,0,,87.7,25,254,7.8,41,17,3
+VALEMOUNT AIRPORT,2022-07-02,ACTUAL,24.8,7.8,34,332,7,0,,90.6,29,263,6.6,46,16,3
+VALEMOUNT AIRPORT,2022-07-03,ACTUAL,26.2,7.2,30,303,8,0,,92,34,271,8.5,52,20,4
+VALEMOUNT AIRPORT,2022-07-04,ACTUAL,17.9,14.2,79,5,4,1.2,,78.2,35,278,1.2,53,4,3
+VALEMOUNT AIRPORT,2022-07-05,ACTUAL,19.7,10.5,55,144,16,19.6,,58.8,15,230,0.8,26,1,2
+VALEMOUNT AIRPORT,2022-07-06,ACTUAL,23.2,6.8,35,120,8,0,,83.8,19,238,2.7,32,6,2
+VALEMOUNT AIRPORT,2022-07-07,ACTUAL,20.9,13.2,61,110,11,0.6,,84.5,21,245,3.4,35,8,2
+VALEMOUNT AIRPORT,2022-07-08,ACTUAL,19.3,10.1,55,114,12,1.8,,78.3,21,253,1.8,35,4,2
+VALEMOUNT AIRPORT,2022-07-09,ACTUAL,19.2,10.3,56,345,6,1.4,,77.3,24,260,1.2,38,3,2
+VALEMOUNT AIRPORT,2022-07-10,ACTUAL,21.6,9.1,45,326,12,1,,83.8,26,267,3.3,42,8,3
+VALEMOUNT AIRPORT,2022-07-11,ACTUAL,26.3,8.7,33,138,18,0,,90.8,31,276,12,48,25,4
+VALEMOUNT AIRPORT,2022-07-12,ACTUAL,31.2,3.2,17,117,15,0,,95.6,37,285,19.9,56,38,4
+VALEMOUNT AIRPORT,2022-07-13,ACTUAL,19.8,5,38,306,13,2.2,,82.3,35,292,2.8,54,9,3
+VALEMOUNT AIRPORT,2022-07-14,ACTUAL,23.2,9.2,41,146,10,0,,88.2,39,300,5.5,59,16,3
+VALEMOUNT AIRPORT,2022-07-15,ACTUAL,28.8,4.9,22,158,11,0,,93.8,44,309,13,65,30,4
+VALEMOUNT AIRPORT,2022-07-16,ACTUAL,23.4,9.7,42,133,13,3,,80.4,38,312,2.2,59,7,3
+VALEMOUNT AIRPORT,2022-07-17,ACTUAL,23.3,8.9,40,347,4,0,,87.5,42,320,3.7,63,12,3
+VALEMOUNT AIRPORT,2022-07-18,ACTUAL,15.5,12.6,83,332,12,0,,83,42,326,3,64,10,3
+VALEMOUNT AIRPORT,2022-07-19,ACTUAL,22,9.2,44,328,14,0.2,,87.7,45,334,6.3,68,19,4
+VALEMOUNT AIRPORT,2022-07-20,ACTUAL,24.8,6.9,32,20,6,0,,90.9,50,342,6.5,73,20,4
+VALEMOUNT AIRPORT,2022-07-21,ACTUAL,30.7,5.9,21,192,16,0,,94.6,56,351,18.2,80,42,5
+VALEMOUNT AIRPORT,2022-07-22,ACTUAL,28,6.6,26,345,10,0,,94.7,61,360,13.7,85,36,5
+VALEMOUNT AIRPORT,2022-07-23,ACTUAL,28,6.1,25,321,10,0,,94.7,66,369,14,91,38,5
+VALEMOUNT AIRPORT,2022-07-24,ACTUAL,21.1,8.7,45,341,13,0,,91,69,376,9.7,94,30,4
+VALEMOUNT AIRPORT,2022-07-25,ACTUAL,23.7,12.1,48,354,12,0,,90.1,72,384,7.9,98,27,4
+VALEMOUNT AIRPORT,2022-07-26,ACTUAL,28.9,10.9,33,307,9,0,,91.8,76,393,8.8,103,29,4
+VALEMOUNT AIRPORT,2022-07-27,ACTUAL,32.6,11.1,27,305,7,0,,93.7,82,403,10.1,109,33,5
+VALEMOUNT AIRPORT,2022-07-28,ACTUAL,32.5,9.9,25,144,7,0,,94.3,88,412,11.3,115,36,5
+VALEMOUNT AIRPORT,2022-07-29,ACTUAL,28.4,11.4,35,145,8,0,,93.3,93,421,10.1,119,34,5
+VALEMOUNT AIRPORT,2022-07-30,ACTUAL,31.4,10.1,27,193,6,0,,93.7,98,430,9.7,125,34,5
+VALEMOUNT AIRPORT,2022-07-31,ACTUAL,27.5,11,36,130,7,0,,92.9,102,439,9.4,129,34,5
+VALEMOUNT AIRPORT,2022-08-01,ACTUAL,30,11.9,33,94,8,0,,93,107,447,9.8,134,35,5
+VALEMOUNT AIRPORT,2022-08-02,ACTUAL,22.2,9,43,45,5,2.6,,78.3,85,454,1.3,116,7,3
+VALEMOUNT AIRPORT,2022-08-03,ACTUAL,18,13.8,76,123,11,0,,80.8,86,461,2.1,117,11,4
+VALEMOUNT AIRPORT,2022-08-04,ACTUAL,13.6,10.1,79,317,10,19,,36.4,40,385,0,63,0,2
+VALEMOUNT AIRPORT,2022-08-05,ACTUAL,19.5,9.4,52,356,8,5.6,,54.8,27,374,0.4,46,1,2
+VALEMOUNT AIRPORT,2022-08-06,ACTUAL,21.2,8.8,45,110,6,0,,78.6,29,381,1.4,49,4,3
+VALEMOUNT AIRPORT,2022-08-07,ACTUAL,29.5,6.2,23,104,13,0,,92.9,34,389,12.5,56,28,4
+VALEMOUNT AIRPORT,2022-08-08,ACTUAL,26.4,7.3,30,286,11,0,,92.9,38,397,11.3,62,27,4
+VALEMOUNT AIRPORT,2022-08-09,ACTUAL,27.6,6.3,26,152,6,0,,93.2,43,405,9.2,68,24,4
+VALEMOUNT AIRPORT,2022-08-10,ACTUAL,30.5,8.8,26,160,6,0,,93.7,48,414,10,74,27,4
+VALEMOUNT AIRPORT,2022-08-11,ACTUAL,24.4,14,52,342,5,0,,90.3,50,421,5.8,77,19,4
+VALEMOUNT AIRPORT,2022-08-12,ACTUAL,29.4,11.8,34,150,9,0,,91.7,54,429,8.7,82,26,4
+VALEMOUNT AIRPORT,2022-08-13,ACTUAL,23.7,11.7,47,314,13,0,,90.4,57,437,8.7,86,27,4
+VALEMOUNT AIRPORT,2022-08-14,ACTUAL,23.7,10.7,44,79,6,3.6,,75.3,45,434,1.1,71,4,3
+VALEMOUNT AIRPORT,2022-08-15,ACTUAL,26.6,11.5,39,139,13,0,,88.4,48,442,6.4,76,20,4
+VALEMOUNT AIRPORT,2022-08-16,ACTUAL,19.8,14.5,71,347,6,4.4,,60,35,434,0.6,58,1,3
+VALEMOUNT AIRPORT,2022-08-17,ACTUAL,26.5,12.1,41,334,11,0,,84.9,38,442,3.6,63,11,3
+VALEMOUNT AIRPORT,2022-08-18,ACTUAL,31,11.3,30,174,7,0,,92.2,43,451,8.3,69,23,4
+VALEMOUNT AIRPORT,2022-08-19,ACTUAL,26.9,14.7,47,122,11,0,,90.9,46,459,8.6,73,24,4
+VALEMOUNT AIRPORT,2022-08-20,ACTUAL,24.6,14.5,53,329,15,0.2,,89.5,48,466,8.2,77,24,4
+VALEMOUNT AIRPORT,2022-08-21,ACTUAL,27.2,11.2,37,118,11,1.4,,87.8,52,474,5.4,82,18,4
+VALEMOUNT AIRPORT,2022-08-22,ACTUAL,30.5,13.2,35,124,9,0,,91.5,56,482,8.3,87,26,4
+VALEMOUNT AIRPORT,2022-08-23,ACTUAL,20.9,13.4,62,323,4,0,,88.1,58,489,4.1,89,16,4
+VALEMOUNT AIRPORT,2022-08-24,ACTUAL,28.3,12.6,38,164,7,0,,90.6,62,497,6.7,94,23,4
+VALEMOUNT AIRPORT,2022-08-25,ACTUAL,29.8,10.8,31,174,8,0,,92.4,66,506,9,100,29,4
+VALEMOUNT AIRPORT,2022-08-26,ACTUAL,24.3,12.6,48,148,10,0.4,,90.5,69,513,7.7,103,27,4
+VALEMOUNT AIRPORT,2022-08-27,ACTUAL,14.7,9.6,71,150,9,17.6,,43.9,31,434,0.1,53,0,2
+VALEMOUNT AIRPORT,2022-08-28,ACTUAL,18.5,7.9,50,119,18,0,,75,33,440,1.9,56,6,3
+VALEMOUNT AIRPORT,2022-08-29,ACTUAL,19.9,10.4,54,119,19,0,,84.2,35,447,5,59,14,3
+VALEMOUNT AIRPORT,2022-08-30,ACTUAL,27.4,12.6,40,134,12,0,,89.6,39,455,7.6,64,21,4
+VALEMOUNT AIRPORT,2022-08-31,ACTUAL,28.6,13.6,40,116,15,0,,90.5,43,463,9.9,69,26,4
+VALEMOUNT AIRPORT,2022-09-01,ACTUAL,27.3,6.1,26,307,7,0,,92.9,46,469,9.1,74,26,4
+VALEMOUNT AIRPORT,2022-09-02,ACTUAL,28.9,9.5,30,146,19,0,,92.9,50,476,17.1,79,40,5
+VALEMOUNT AIRPORT,2022-09-03,ACTUAL,29.1,10.6,32,137,15,0,,93,54,483,13.7,84,36,5
+VALEMOUNT AIRPORT,2022-09-04,ACTUAL,20.2,8.5,47,140,17,0,,90.2,56,488,10.3,87,30,4
+VALEMOUNT AIRPORT,2022-09-05,ACTUAL,14.5,11.1,80,321,6,12.6,,38.2,27,436,0,47,0,2
+VALEMOUNT AIRPORT,2022-09-06,ACTUAL,13.4,8.1,70,127,7,0,,58.7,28,440,0.5,48,1,2
+VALEMOUNT AIRPORT,2022-09-07,ACTUAL,19.6,4.8,38,352,10,0,,81.6,30,445,2.2,52,7,3
+VALEMOUNT AIRPORT,2022-09-08,ACTUAL,16.9,5.5,47,299,13,0,,85.9,32,450,4.5,54,13,3
+VALEMOUNT AIRPORT,2022-09-09,ACTUAL,18.2,2.8,36,263,9,0,,88.7,34,455,5.5,57,15,3
+VALEMOUNT AIRPORT,2022-09-10,ACTUAL,21.2,5,35,136,12,0,,90.1,37,460,7.8,61,21,4
+VALEMOUNT AIRPORT,2022-09-11,ACTUAL,21.6,7.4,40,126,16,0,,90.1,39,466,9.9,65,25,4
+VALEMOUNT AIRPORT,2022-09-12,ACTUAL,20.6,8.9,47,178,8,0,,89.7,41,471,6.2,68,19,4
+VALEMOUNT AIRPORT,2022-09-13,ACTUAL,18.8,9.1,53,336,11,0,,88.6,43,476,6.2,70,19,4
+VALEMOUNT AIRPORT,2022-09-14,ACTUAL,22.1,8.5,42,168,8,0,,89.1,45,482,5.6,73,18,4
+VALEMOUNT AIRPORT,2022-09-15,ACTUAL,16.7,12.5,76,321,7,0.4,,85,46,487,3,74,11,4
+VALEMOUNT AIRPORT,2022-09-16,ACTUAL,8.6,8.3,98,336,13,13.4,,19.2,21,429,0,38,0,2
+VALEMOUNT AIRPORT,2022-09-17,ACTUAL,13.9,5.3,56,287,7,21.4,,35.9,10,348,0,18,0,1
+VALEMOUNT AIRPORT,2022-09-18,ACTUAL,12.5,4.8,59,87,6,0,,59.4,11,352,0.5,20,0,1
+VALEMOUNT AIRPORT,2022-09-19,ACTUAL,13.7,5.6,58,322,17,12.8,,49.8,6,314,0.4,11,0,1
+VALEMOUNT AIRPORT,2022-09-20,ACTUAL,15.2,2.6,43,189,5,0,,72.7,8,319,0.9,14,1,1
+VALEMOUNT AIRPORT,2022-09-21,ACTUAL,16.5,3.5,42,135,7,0,,83.4,9,323,2.3,18,3,2
+VALEMOUNT AIRPORT,2022-09-22,ACTUAL,19,5.7,42,158,6,0,,87.2,11,329,3.8,21,6,2
+VALEMOUNT AIRPORT,2022-09-23,ACTUAL,14.6,7.9,64,131,5,0,,86.2,13,333,3.2,23,6,2
+VALEMOUNT AIRPORT,2022-09-24,ACTUAL,18,5.9,45,100,6,0.6,,86.7,14,338,3.5,26,7,2
+VALEMOUNT AIRPORT,2022-09-25,ACTUAL,19.9,7.2,44,131,8,0,,88,16,343,4.9,29,10,3
+VALEMOUNT AIRPORT,2022-09-26,ACTUAL,20.6,9.5,49,176,9,0,,88.1,18,349,5,33,11,3
+VALEMOUNT AIRPORT,2022-09-27,ACTUAL,22.4,10.2,46,145,13,0,,88.4,21,354,6.7,36,14,3
+VALEMOUNT AIRPORT,2022-09-28,ACTUAL,20.2,9.2,49,132,9,0,,88.5,23,360,5.3,39,12,3
+VALEMOUNT AIRPORT,2022-09-29,ACTUAL,21.3,9.2,46,315,13,0,,88.5,25,365,6.5,42,15,3
+VALEMOUNT AIRPORT,2022-09-30,ACTUAL,20.9,10.1,50,325,5,0,,88.6,27,371,4.4,45,11,3
+VALEMOUNT AIRPORT,2022-10-01,ACTUAL,19.4,9.3,52,137,9,0,,88.5,28,375,5.3,48,14,3
+VALEMOUNT AIRPORT,2022-10-02,ACTUAL,21.6,9.8,47,324,5,0,,88.6,30,379,4.4,50,12,3
+VALEMOUNT AIRPORT,2022-10-03,ACTUAL,21.4,9.9,48,129,7,0,,88.6,32,384,4.9,53,14,3
+VALEMOUNT AIRPORT,2022-10-04,ACTUAL,20.7,9.9,50,172,7,0,,88.7,33,388,4.9,55,14,3
+VALEMOUNT AIRPORT,2022-10-05,ACTUAL,20,10.2,53,180,5,0,,88.5,35,393,4.5,57,13,3
+VALEMOUNT AIRPORT,2022-10-06,ACTUAL,18.9,7.6,48,216,5,0,,88.6,37,397,4.5,59,13,3
+VALEMOUNT AIRPORT,2022-10-07,ACTUAL,17.5,7.3,51,126,7,0,,88.4,38,401,4.8,61,14,3
+VALEMOUNT AIRPORT,2022-10-08,ACTUAL,18.3,7.1,48,197,5,0,,88.5,39,405,4.4,63,14,3
+VALEMOUNT AIRPORT,2022-10-09,ACTUAL,17.9,7,49,181,5,0,,88.5,41,409,4.4,65,14,3
+VALEMOUNT AIRPORT,2022-10-10,ACTUAL,15.3,7.4,59,125,11,1.2,,80.7,42,412,2.1,67,8,3
+VALEMOUNT AIRPORT,2022-10-11,ACTUAL,8.3,1.3,61,342,6,1.8,,69.3,40,414,0.8,64,3,3
+VALEMOUNT AIRPORT,2022-10-12,ACTUAL,13.7,3.7,51,314,7,0,,79.7,41,417,1.5,65,6,3
+VALEMOUNT AIRPORT,2022-10-13,ACTUAL,12.3,4.8,60,126,8,0,,82.5,41,420,2.3,67,8,3
+VALEMOUNT AIRPORT,2022-10-14,ACTUAL,15.4,8.2,62,199,4,0,,83.8,42,424,2.2,68,8,3
+VALEMOUNT AIRPORT,2022-10-15,ACTUAL,14.6,6,56,123,8,0,,84.9,43,427,3.2,69,11,3
+VALEMOUNT AIRPORT,2022-10-16,ACTUAL,17,6.2,49,229,6,0,,86.4,45,431,3.4,71,12,4
+VALEMOUNT AIRPORT,2022-10-17,ACTUAL,16.7,4.7,45,159,10,0,,87.4,46,435,4.9,73,16,4
+VALEMOUNT AIRPORT,2022-10-18,ACTUAL,16.3,4.9,47,146,7,0,,87.4,48,438,4.2,75,15,4
+VALEMOUNT AIRPORT,2022-10-19,ACTUAL,16.3,5.9,50,127,8,0,,87.5,49,442,4.4,77,15,4
+VALEMOUNT AIRPORT,2022-10-20,ACTUAL,12.6,2.1,49,313,10,2.2,,74,44,445,1.2,71,5,3
+VALEMOUNT AIRPORT,2022-10-21,ACTUAL,6,0.8,69,163,8,0,,77.7,44,447,1.4,71,5,3
+VALEMOUNT AIRPORT,2022-10-22,ACTUAL,7.4,-0.3,58,319,9,0,,81.1,45,449,2,72,8,3
+VALEMOUNT AIRPORT,2022-10-23,ACTUAL,7.3,-2.2,51,158,8,0,,83,46,451,2.4,73,9,
+VALEMOUNT AIRPORT,2022-10-24,MANUAL,7.4,0.2,60,137,13,1.8,,71.5,43,453,1.3,70,5,3
+VALEMOUNT AIRPORT,2022-10-25,ACTUAL,7.2,-2.3,51,139,12,0.8,,76.9,44,455,1.6,71,6,3
+VALEMOUNT AIRPORT,2022-10-26,ACTUAL,6.9,-4.6,44,138,15,0.4,,82.7,45,457,3.2,72,12,4
+VALEMOUNT AIRPORT,2022-10-27,ACTUAL,5.3,3.8,90,135,14,2.8,,52.6,36,459,0.5,60,1,2
+VALEMOUNT AIRPORT,2022-10-28,ACTUAL,11,0.1,47,142,12,12.2,,47,17,410,0.2,31,0,2
+VALEMOUNT AIRPORT,2022-10-29,ACTUAL,5.6,4.4,92,151,12,13.6,,17.2,8,360,0,15,0,1
+VALEMOUNT AIRPORT,2022-10-30,ACTUAL,6.8,4.8,87,124,15,9.2,,19.3,4,332,0,7,0,1
+VALEMOUNT AIRPORT,2022-10-31,ACTUAL,0.8,0.8,100,347,4,3,,10.8,2,328,0,4,0,1
